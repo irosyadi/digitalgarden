@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/license-derivative-work/"}
+{"aliases":["Derivative Works and Attribution"],"title":"Derivative Works and Attribution","date":"2021-04-16 09:27:08","tags":["license"],"dg-publish":true,"permalink":"/license-derivative-work/","dgPassFrontmatter":true}
 ---
 
 
