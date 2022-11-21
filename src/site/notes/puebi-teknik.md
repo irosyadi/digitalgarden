@@ -8,7 +8,7 @@
 Pedoman ejaan untuk naskah bidang teknik elektro berdasarkan PUEBI. Pedoman ejaan berikut tidak menyebutkan pedoman ejaan selengkap PUEBI, akan tetapi hanya menyebutkan sebagian yang terkait dengan penulisan naskah bidang teknik elektro. Apa yang disebutkan berikut dituliskan berdasarkan pengalaman membimbing penulisan naskah bidang teknik elektro.
 
 Link terkait:
-🔗 [Penulisan Naskah Ilmiah Bidang Teknik Elektro](/catatan/naskah-teknik)
+🔗 [[Penulisan Naskah Ilmiah Bidang Teknik Elektro](naskah-teknik.md)
 🔗 [[kbbi-teknik\|Istilah Baku di Bidang Teknik Elektro]]
 
 ## Ringkasan Ejaan Benar dan Salah
