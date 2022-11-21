@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life-harsh-fact/"}
+{"aliases":["Harsh Facts about Life"],"title":"Harsh Facts about Life","date":"2022-10-25 10:23","tags":["life"],"dg-publish":true,"permalink":"/life-harsh-fact/","dgPassFrontmatter":true}
 ---
 
 
