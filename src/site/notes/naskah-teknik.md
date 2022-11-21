@@ -1,5 +1,5 @@
 ---
-{"aliases":["Penulisan Naskah Ilmiah Bidang Teknik Elektro"],"title":"Penulisan Naskah Ilmiah Bidang Teknik Elektro","date":"2021-06-13 02:08:54","tags":["penulisan","teknik elektro"],"dg-publish":true,"permalink":"/naskah-teknik/","dgPassFrontmatter":true}
+{"aliases":["Penulisan Naskah Ilmiah Bidang Teknik Elektro"],"title":"Penulisan Naskah Ilmiah Bidang Teknik Elektro","date":"2021-06-13","tags":["penulisan","teknik elektro"],"dg-publish":true,"permalink":"/naskah-teknik/","dgPassFrontmatter":true}
 ---
 
 
