@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/folder/note-in-folder/"}
+{"dg-publish":true,"permalink":"/folder/note-in-folder/","dgPassFrontmatter":true}
 ---
 
 
