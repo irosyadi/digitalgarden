@@ -1,5 +1,5 @@
 ---
-{"aliases":["Istilah Baku di Bidang Teknik Elektro "],"title":"Istilah Baku di Bidang Teknik Elektro ","date":"2020-09-15 05:34:36","tags":["kbbi","kosakata","teknik elektro"],"dg-publish":true,"permalink":"/kbbi-teknik/","dgPassFrontmatter":true}
+{"aliases":["Istilah Baku di Bidang Teknik Elektro "],"title":"Istilah Baku di Bidang Teknik Elektro ","date":"2020-09-15","tags":["kbbi","kosakata","teknik elektro"],"dg-publish":true,"permalink":"/kbbi-teknik/","dgPassFrontmatter":true}
 ---
 
 
