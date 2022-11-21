@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-wellbeing/"}
+{"aliases":["Digital Well Being"],"title":"Digital Well Being","date":"2022-07-02 12:50:53","tags":["digital"],"dg-publish":true,"permalink":"/digital-wellbeing/","dgPassFrontmatter":true}
 ---
 
 
