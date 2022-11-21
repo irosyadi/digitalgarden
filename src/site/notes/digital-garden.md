@@ -1,5 +1,5 @@
 ---
-{"aliases":["Digital Garden"],"title":"Digital Garden","date":"2022-07-28 16:16:00","tags":["learning","digital-garden"],"dg-publish":true,"permalink":"/digital-garden/","dgPassFrontmatter":true}
+{"aliases":["Digital Garden"],"title":"Digital Garden","date":"2022-07-28","tags":["learning","digital-garden"],"dg-publish":true,"permalink":"/digital-garden/","dgPassFrontmatter":true}
 ---
 
 
