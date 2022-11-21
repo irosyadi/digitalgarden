@@ -1,5 +1,5 @@
 ---
-{"aliases":["Pedomaan Ejaan Naskah Bidang Teknik Elektro"],"title":"Pedomaan Ejaan Naskah Bidang Teknik Elektro","date":"2021-06-12 23:03:52","tags":["ejaan","puebi","teknik elektro"],"dg-publish":true,"permalink":"/puebi-teknik/","dgPassFrontmatter":true}
+{"aliases":["Pedomaan Ejaan Naskah Bidang Teknik Elektro"],"title":"Pedomaan Ejaan Naskah Bidang Teknik Elektro","date":"2021-06-12","tags":["ejaan","puebi","teknik elektro"],"dg-publish":true,"permalink":"/puebi-teknik/","dgPassFrontmatter":true}
 ---
 
 
