@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kategorisasi Buku untuk Dosen"],"title":"Kategorisasi Buku untuk Dosen","date":"2020-07-10","tags":["buku","dosen"],"dg-publish":true,"permalink":"/buku-dosen/","dgPassFrontmatter":true}
+{"aliases":["Kategorisasi Buku untuk Dosen"],"title":"Kategorisasi Buku untuk Dosen","date":"2020-07-10","tags":["buku"],"dg-publish":true,"permalink":"/buku-dosen/","dgPassFrontmatter":true}
 ---
 
 
