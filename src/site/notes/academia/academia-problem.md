@@ -1,5 +1,5 @@
 ---
-{"aliases":["Academia Problems"],"title":"Academia Problems","date":"2022-07-22","tags":["academia"],"dg-publish":true,"permalink":"/academia/academia-problem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/academia/academia-problem/","title":"Academia Problems","tags":["academia"]}
 ---
 
 
