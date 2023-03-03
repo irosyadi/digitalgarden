@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/about-zettelkasten/","title":"Zettelkasten","tags":["zettelkasten","writing","note taking"]}
+{"dg-publish":true,"permalink":"/writing/about-zettelkasten/","title":"Zettelkasten","tags":["zettelkasten"]}
 ---
 
 
