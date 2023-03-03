@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/academia-reading/","title":"Interesting Academia Articles","tags":["reading"]}
+{"dg-publish":true,"permalink":"/academia/academia-reading/","title":"Interesting Academia Articles"}
 ---
 
 
