@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/kbbi-teknik/","title":"Istilah Baku di Bidang Teknik Elektro","tags":["kbbi","kosakata","teknik elektro"]}
+{"dg-publish":true,"permalink":"/academia/kbbi-teknik/","title":"Istilah Baku di Bidang Teknik Elektro","tags":["penulisan","teknik"]}
 ---
 
 
