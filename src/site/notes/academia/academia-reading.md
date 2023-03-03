@@ -1,5 +1,5 @@
 ---
-{"aliases":["Interesting Academia Articles"],"title":"Interesting Academia Articles","date":"2021-11-18","tags":["reading"],"dg-publish":true,"permalink":"/academia/academia-reading/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/academia/academia-reading/","title":"Interesting Academia Articles","tags":["reading"]}
 ---
 
 
