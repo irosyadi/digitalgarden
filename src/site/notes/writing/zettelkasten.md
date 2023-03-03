@@ -9,4 +9,4 @@ Zettelkasten is a Note Taking Process and a Knowledge Management System. It has 
 
 - Fleeting notes: Temporary notes for remembering
 - Literature Notes: Fleeting notes combined and cleanup. Will be a summary of the content.
-- [[permanent-notes\|permanent-notes]]
+- [[writing/permanent-notes\|writing/permanent-notes]]
