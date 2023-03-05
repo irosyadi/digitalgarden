@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gadget/vlog-tool/","title":"Vlog Tools"}
+{"dg-publish":true,"permalink":"/gadget/vlog-tool/","title":"Vlog Tools","noteIcon":""}
 ---
 
 
