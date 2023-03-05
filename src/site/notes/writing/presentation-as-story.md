@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/presentation-as-story/","title":"Presentation as Story","tags":["presentation"]}
+{"dg-publish":true,"permalink":"/writing/presentation-as-story/","title":"Presentation as Story","tags":["presentation"],"noteIcon":""}
 ---
 
 
