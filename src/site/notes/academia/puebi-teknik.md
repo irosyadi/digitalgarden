@@ -7,9 +7,9 @@
 
 Pedoman ejaan untuk naskah bidang teknik elektro berdasarkan PUEBI. Pedoman ejaan berikut tidak menyebutkan pedoman ejaan selengkap PUEBI, akan tetapi hanya menyebutkan sebagian yang terkait dengan penulisan naskah bidang teknik elektro. Apa yang disebutkan berikut dituliskan berdasarkan pengalaman membimbing penulisan naskah bidang teknik elektro.
 
-Link terkait:
-🔗 [[Penulisan Naskah Ilmiah Bidang Teknik Elektro](academia/naskah-teknik.md)
-🔗 [[academia/kbbi-teknik\|Istilah Baku di Bidang Teknik Elektro]]
+Link terkait:  
+🔗[Penulisan Naskah Ilmiah Bidang Teknik Elektro](academia/naskah-teknik.md)  
+🔗[Istilah Baku di Bidang Teknik Elektro](academia/kbbi-teknik.md)
 
 ## Ringkasan Ejaan Benar dan Salah
 
@@ -335,10 +335,10 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - Pengukuran secara otomatis gagal; pengukuran manual pun gagal.
 - Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
     - Misalnya:
-        - Syarat penerimaan pegawai di PT PLN adalah
-               - (1) berkewarganegaraan Indonesia;
-               - (2) berijazah sarjana S-1 Teknik Elektro;
-               - (3) berbadan sehat; dan
+        - Syarat penerimaan pegawai di PT PLN adalah  
+               - (1) berkewarganegaraan Indonesia;  
+               - (2) berijazah sarjana S-1 Teknik Elektro;  
+               - (3) berbadan sehat; dan  
                - (4) bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.
 
 ### [Tanda Titik Dua](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-titik-dua/)
