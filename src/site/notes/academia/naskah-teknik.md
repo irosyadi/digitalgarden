@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/naskah-teknik/","title":"Penulisan Naskah Ilmiah Bidang Teknik Elektro","tags":["penulisan","teknik"]}
+{"dg-publish":true,"permalink":"/academia/naskah-teknik/","title":"Penulisan Naskah Ilmiah Bidang Teknik Elektro","tags":["penulisan","teknik"],"noteIcon":3}
 ---
 
 
