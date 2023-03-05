@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/habit/habit/","title":"Habit"}
+{"dg-publish":true,"permalink":"/habit/habit/","title":"Habit","noteIcon":""}
 ---
 
 
