@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/student-assessment/","title":"Student Assessment"}
+{"dg-publish":true,"permalink":"/academia/student-assessment/","title":"Student Assessment","noteIcon":""}
 ---
 
 
