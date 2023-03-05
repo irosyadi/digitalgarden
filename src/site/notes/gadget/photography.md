@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gadget/photography/","title":"Photography"}
+{"dg-publish":true,"permalink":"/gadget/photography/","title":"Photography","noteIcon":""}
 ---
 
 
