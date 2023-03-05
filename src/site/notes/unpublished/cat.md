@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unpublished/cat/","title":"Cat"}
+{"dg-publish":true,"permalink":"/unpublished/cat/","title":"Cat","noteIcon":""}
 ---
 
 
