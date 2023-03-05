@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unpublished/bandung-pwt/","title":"Bandung Purwokerto"}
+{"dg-publish":true,"permalink":"/unpublished/bandung-pwt/","title":"Bandung Purwokerto","noteIcon":""}
 ---
 
 
