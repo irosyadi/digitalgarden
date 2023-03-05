@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gadget/meebok-p78/","title":"Meebook P78 Pro","tags":["eink","ebook","reader"]}
+{"dg-publish":true,"permalink":"/gadget/meebok-p78/","title":"Meebook P78 Pro","tags":["eink","ebook","reader"],"noteIcon":""}
 ---
 
 
