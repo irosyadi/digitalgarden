@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/quotes/","title":"Interesting Quotes"}
+{"dg-publish":true,"permalink":"/writing/quotes/","title":"Interesting Quotes","noteIcon":""}
 ---
 
 
