@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/license-derivative-work/","title":"Derivative Works and Attribution","tags":["license"]}
+{"dg-publish":true,"permalink":"/writing/license-derivative-work/","title":"Derivative Works and Attribution","tags":["license"],"noteIcon":""}
 ---
 
 
