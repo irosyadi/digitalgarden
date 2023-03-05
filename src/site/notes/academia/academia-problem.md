@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/academia-problem/","title":"Academia Problems"}
+{"dg-publish":true,"permalink":"/academia/academia-problem/","title":"Academia Problems","noteIcon":""}
 ---
 
 
