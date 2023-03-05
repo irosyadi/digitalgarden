@@ -7,9 +7,9 @@
 
 Panduan penulisan naskah ilmiah di bidang Teknik Elektro.
 
-Link terkait:
-🔗 [[academia/kbbi-teknik\|Istilah Baku di Bidang Teknik Elektro]]
-🔗 [[academia/puebi-teknik\|Pedomaan Ejaan Naskah Bidang Teknik Elektro]]
+Link terkait:  
+🔗 [Istilah Baku di Bidang Teknik Elektro](academia/kbbi-teknik.md)  
+🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](academia/puebi-teknik.md)
 
 ## Pedoman Dasar Penulisan Naskah Ilmiah
 
@@ -112,7 +112,7 @@ Link terkait:
 - [ ] Periksa penulisan huruf kapital dan huruf miring.
 - [ ] Periksa penulisan spasi dalam kalimat dan spasi antar baris.
 - [ ] Periksa penulisan titik (.) dan koma (,).
-- [ ] Periksa penulisan garis miring (/) tanda kurung ((...)) dan kurung siku ([...]).
+- [ ] Periksa penulisan garis miring (/) tanda kurung ((…)) dan kurung siku ([…]).
 - [ ] Periksa penulisan kosakata dan kesesuaiannya dengan KBBI, istilah baku, dan padanan kata.
 - [ ] Periksa nomor halaman dan penulisan nomor dan judul bab, sub-bab, serta *caption* gambar, dan tabel.
 - [ ] Periksa apakah tabel dan gambar telah dirujuk di dalam naskah (paragraf).
