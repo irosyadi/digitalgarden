@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","title":"Digital Garden","tags":["learning"]}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","title":"Digital Garden","tags":["learning"],"noteIcon":""}
 ---
 
 
