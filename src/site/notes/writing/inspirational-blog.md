@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/inspirational-blog/","title":"Inspiring Blog"}
+{"dg-publish":true,"permalink":"/writing/inspirational-blog/","title":"Inspiring Blog","noteIcon":""}
 ---
 
 
