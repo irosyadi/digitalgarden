@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-world/digital-wellbeing/","title":"Digital Well Being"}
+{"dg-publish":true,"permalink":"/digital-world/digital-wellbeing/","title":"Digital Well Being","noteIcon":""}
 ---
 
 
