@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/active-learning/","title":"Active Learning"}
+{"dg-publish":true,"permalink":"/academia/active-learning/","title":"Active Learning","noteIcon":""}
 ---
 
 
