@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/licenses/","title":"Open and Free Licenses","tags":["license"]}
+{"dg-publish":true,"permalink":"/writing/licenses/","title":"Open and Free Licenses","tags":["license"],"noteIcon":""}
 ---
 
 
