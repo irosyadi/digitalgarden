@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/writing-plain-english/","title":"Writing in Plain English","tags":["writing"]}
+{"dg-publish":true,"permalink":"/writing/writing-plain-english/","title":"Writing in Plain English","tags":["writing"],"noteIcon":""}
 ---
 
 
