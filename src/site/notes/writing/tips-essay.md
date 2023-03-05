@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/tips-essay/","title":"Tips Menulis Essay"}
+{"dg-publish":true,"permalink":"/writing/tips-essay/","title":"Tips Menulis Essay","noteIcon":""}
 ---
 
 
