@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/tech-reading/","title":"Interesting Technology Articles"}
+{"dg-publish":true,"permalink":"/academia/tech-reading/","title":"Interesting Technology Articles","noteIcon":""}
 ---
 
 
