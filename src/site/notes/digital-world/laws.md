@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-world/laws/","title":"Interesting Laws"}
+{"dg-publish":true,"permalink":"/digital-world/laws/","title":"Interesting Laws","noteIcon":""}
 ---
 
 
