@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health/productivity-tool/","title":"Productivity Tools and Tips"}
+{"dg-publish":true,"permalink":"/mental-health/productivity-tool/","title":"Productivity Tools and Tips","noteIcon":""}
 ---
 
 
