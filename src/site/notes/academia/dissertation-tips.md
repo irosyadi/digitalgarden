@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/dissertation-tips/","title":"Dissertation Tips"}
+{"dg-publish":true,"permalink":"/academia/dissertation-tips/","title":"Dissertation Tips","noteIcon":""}
 ---
 
 
