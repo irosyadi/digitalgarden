@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/understand-by-explaining/","title":"Understanding by Explaining","tags":["zettelkasten","learning"]}
+{"dg-publish":true,"permalink":"/writing/understand-by-explaining/","title":"Understanding by Explaining","tags":["zettelkasten","learning"],"noteIcon":""}
 ---
 
 
