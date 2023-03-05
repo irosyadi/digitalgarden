@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/buku-dosen/","title":"Kategorisasi Buku untuk Dosen","tags":["penulisan","buku"]}
+{"dg-publish":true,"permalink":"/academia/buku-dosen/","title":"Kategorisasi Buku untuk Dosen","tags":["penulisan","buku"],"noteIcon":2}
 ---
 
 
