@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/ml-untuk-siapa-saja/","title":"Pembelajaran Mesin"}
+{"dg-publish":true,"permalink":"/academia/ml-untuk-siapa-saja/","title":"Pembelajaran Mesin","noteIcon":""}
 ---
 
 
