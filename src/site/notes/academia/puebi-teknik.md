@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/puebi-teknik/","title":"Pedomaan Ejaan Naskah Bidang Teknik Elektro","tags":["penulisan","teknik"]}
+{"dg-publish":true,"permalink":"/academia/puebi-teknik/","title":"Pedomaan Ejaan Naskah Bidang Teknik Elektro","tags":["penulisan","teknik"],"noteIcon":3}
 ---
 
 
