@@ -3,7 +3,7 @@
 ---
 
 
-# Writing Tips
+## Writing Tips
 
 - Condense. Much of good writing is simply signal/noise ratio! First write a draft that says all you want to say. Then go over it again and again, removing/rephrasing un-needed words and syllables. 20% compression is a decent result.
 - "Rubber ducking". Imagine showing the text to someone likely to read it. I've developed an "inner stranger" I show text or code to. He doesn't have my specialized knowledge, but is reasonably smart. Implied above is to always write a draft that you edit. Do NOT try to form a perfect text in your mind before writing!
