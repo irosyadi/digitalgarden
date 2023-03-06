@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/hi/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/hi/","title":"hi","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
-<p align="center">
-  <img src="https://source.unsplash.com/100x100/?cat" />
-</p>
-
-# Hi 👋🏼
+## Hi 👋🏼 
 
 I'm _Imron Rosyadi_
 
