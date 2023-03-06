@@ -3,9 +3,9 @@
 ---
 
 
-# Digital Well Being
-
 ## Digital Well Being
+
+### Digital Well Being
 
 - Remove all notifications from non-message & calendar apps. Disable all notifications except for the calendar and clock. Disable notifications.
 - Move all non-essential apps off of the front page (perhaps even off of a "page" entirely).
