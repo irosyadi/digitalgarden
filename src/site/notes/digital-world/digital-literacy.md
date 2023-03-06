@@ -3,7 +3,7 @@
 ---
 
 
-# Digital Literacy
+## Digital Literacy
 
 Digital literacy is
 
@@ -121,10 +121,10 @@ Quick guide for online safety
 - Be kind online
 - don't download unknown thing
 
-Digital culture
+Digital culture  
 Problems: transhumanism, AI, cyber ethics, security, privacy, hacking, social engineering, modern psychology
 
-Digital Collaboration
+Digital Collaboration  
 including: digital team, digital discovery, digital content creation, digital communication, digital presentation
 
 Finding Information
@@ -165,19 +165,19 @@ Link:
 
 - [Microsoft Digital Literacy Course](https://www.microsoft.com/en-us/digital-literacy)
 
-10 Langkah Aksi Literasi Digital
-[1] Jaga Privasi Digital
-[2] Amankan Data Digital
-[3] Waspadai Bahaya Digital
-[4] Kritis terhadap Informasi
-[5] Verifikasi setiap Informasi
-[6] Komunikasi Digital dengan Etis
-[7] Empati terhadap Warga Digital
-[8] Kolaborasi Positif secara Digital
-[9] Tepat dalam Mencari Informasi Digital
+10 Langkah Aksi Literasi Digital  
+[1] Jaga Privasi Digital  
+[2] Amankan Data Digital  
+[3] Waspadai Bahaya Digital  
+[4] Kritis terhadap Informasi  
+[5] Verifikasi setiap Informasi  
+[6] Komunikasi Digital dengan Etis  
+[7] Empati terhadap Warga Digital  
+[8] Kolaborasi Positif secara Digital  
+[9] Tepat dalam Mencari Informasi Digital  
 [10] Buat Kreasi Inovasi Digital
 
-## Proyek: Pelatihan Kecakapan Literasi Digital
+### Proyek: Pelatihan Kecakapan Literasi Digital
 
 Apa itu Literasi Digital?
 
