@@ -3,9 +3,9 @@
 ---
 
 
-# Fair Use of Licensed Works
+## Fair Use of Licensed Works
 
-## License: Fair use
+### License: Fair use
 
 - 17 U.S. Code § 107 - Limitations on exclusive rights: Fair use <https://www.law.cornell.edu/uscode/text/17/107>
 
