@@ -3,7 +3,7 @@
 ---
 
 
-# Pedomaan Ejaan Naskah Bidang Teknik Elektro
+## Pedomaan Ejaan Naskah Bidang Teknik Elektro
 
 Pedoman ejaan untuk naskah bidang teknik elektro berdasarkan PUEBI. Pedoman ejaan berikut tidak menyebutkan pedoman ejaan selengkap PUEBI, akan tetapi hanya menyebutkan sebagian yang terkait dengan penulisan naskah bidang teknik elektro. Apa yang disebutkan berikut dituliskan berdasarkan pengalaman membimbing penulisan naskah bidang teknik elektro.
 
@@ -11,7 +11,7 @@ Link terkait:
 🔗[Penulisan Naskah Ilmiah Bidang Teknik Elektro](academia/naskah-teknik.md)  
 🔗[Istilah Baku di Bidang Teknik Elektro](academia/kbbi-teknik.md)
 
-## Ringkasan Ejaan Benar dan Salah
+### Ringkasan Ejaan Benar dan Salah
 
 Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Sebagai ringkasan, konteks ejaan tidak disampaikan secara lengkap. Untuk memahami pedoman ejaan yang lebih lengkap silakan lanjutkan baca pada sub-bab berikutnya, atau silakan merujuk kepada:
 
@@ -19,7 +19,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
 - [PUEBI.pdf](http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf) atau
 - [PUEBI Js](https://puebi.js.org/)
 
-### Penulisan Ejaan
+#### Penulisan Ejaan
 
 - ✅ 220 volt, ✅ 220 V, ✅ 10 kVA, ❌ 220 Volt
 - ✅ 1.000 meter, ✅ 1.000 m
@@ -52,7 +52,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
 - ✅ di-*back up*, ✅ di-*down-sampling*, ❌ diback up, ❌ di*back up*, ❌ di*down sampling*
 - ✅ Nomor: 7/PK/II/2013, ✅ tahun ajaran 2012/2013, ❌ Nomor: 7 /PK /II /2013, ❌ tahun ajaran 2012 / 2013
 
-### Penulisan Pemerian
+#### Penulisan Pemerian
 
 - ✅ Komponen pasif pada rangkaian adalah resistor dan kapasitor.
 - ❌ Komponen pasif pada rangkaian adalah: resistor dan kapasitor.
@@ -78,9 +78,9 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - resistor
         - kapasitor
 
-## Pedomaan Ejaan
+### Pedomaan Ejaan
 
-### [Huruf Kapital](https://puebi.readthedocs.io/en/latest/huruf/huruf-kapital/)
+#### [Huruf Kapital](https://puebi.readthedocs.io/en/latest/huruf/huruf-kapital/)
 
 - Huruf kapital dipakai sebagai huruf pertama unsur nama orang.
     - Misalnya:
@@ -129,7 +129,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - Prof.
         - Dr.
 
-### [Huruf Miring](https://puebi.readthedocs.io/en/latest/huruf/huruf-miring/)
+#### [Huruf Miring](https://puebi.readthedocs.io/en/latest/huruf/huruf-miring/)
 
 - Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
     - Misalnya:
@@ -138,14 +138,14 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Tetapi nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring. Misalnya:
         - Lembaga penyiaran Cable News Network (CNN) menyiarkan kegiatan Direktur Institute of Electrical and Electronics Engineers (IEEE) Stephen Welby yang menyampaikan perkembangan teknologi *convolutional neural network* (CNN).
 
-### [Huruf Tebal](https://puebi.readthedocs.io/en/latest/huruf/huruf-tebal/)
+#### [Huruf Tebal](https://puebi.readthedocs.io/en/latest/huruf/huruf-tebal/)
 
 - Huruf tebal dapat dipakai untuk menegaskan bagian-bagian karangan, seperti judul buku, bab, atau subbab.
     - Misalnya:
         - **Pendahuluan**
         - **1.1 Latar Belakang**
 
-### [Kata Berimbuhan](https://puebi.readthedocs.io/en/latest/kata/kata-berimbuhan/)
+#### [Kata Berimbuhan](https://puebi.readthedocs.io/en/latest/kata/kata-berimbuhan/)
 
 - Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
     - Misalnya:
@@ -153,7 +153,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - inkonvensional
         - multimeter
 
-### [Gabungan Kata](https://puebi.readthedocs.io/en/latest/kata/gabungan-kata/)
+#### [Gabungan Kata](https://puebi.readthedocs.io/en/latest/kata/gabungan-kata/)
 
 - Unsur gabungan kata yang lazim disebut kata majemuk ditulis terpisah.
     - Misalnya:
@@ -169,7 +169,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Tetapi jika mendapatkan awalan dan akhiran ditulis serangkai. Misalnya:
         - dilipatgandakan
 
-### [Kata Depan](https://puebi.readthedocs.io/en/latest/kata/kata-depan/)
+#### [Kata Depan](https://puebi.readthedocs.io/en/latest/kata/kata-depan/)
 
 - Kata depan, seperti *di*, *ke*, dan *dari*, ditulis terpisah dari kata yang mengikutinya.
     - Misalnya:
@@ -177,7 +177,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Tetapi ketika *di* sebagai awalan, ditulis serangkai. Misalnya:
         - Minyak transformator selalu diperiksa setiap hari.
 
-### [Singkatan dan Akronim](https://puebi.readthedocs.io/en/latest/kata/singkatan-dan-akronim/)
+#### [Singkatan dan Akronim](https://puebi.readthedocs.io/en/latest/kata/singkatan-dan-akronim/)
 
 - Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
     - Misalnya:
@@ -241,7 +241,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - iptek = ilmu pengetahuan dan teknologi
         - radar = *radio detection and ranging*
 
-### [Angka dan Bilangan](https://puebi.readthedocs.io/en/latest/kata/angka-dan-bilangan/)
+#### [Angka dan Bilangan](https://puebi.readthedocs.io/en/latest/kata/angka-dan-bilangan/)
 
 - Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf.
     - Misalnya:
@@ -266,7 +266,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - abad XX atau abad ke-20 atau abad kedua puluh
         - Perang Dunia II atau Perang Dunia Ke-2 atau Perang Dunia Kedua
 
-### [Tanda Titik](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-titik/)
+#### [Tanda Titik](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-titik/)
 
 - Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
     - Misalnya:
@@ -294,7 +294,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Tetapi tanda titik tidak dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang tidak menunjukkan jumlah. Misalnya:
         - Hal ini merujuk kepada *Handbook of Electrical Engineering* halaman 1305 yang terbit pada tahun 2019.
 
-### [Tanda Koma](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-koma/)
+#### [Tanda Koma](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-koma/)
 
 - Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
     - Misalnya:
@@ -328,7 +328,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Bandingkan dengan,
         - Dalam pengukuran nilai daya kita harus memperhatikan posisi kabel *powermeter*.
 
-### [Tanda Titik Koma](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-titik-koma/)
+#### [Tanda Titik Koma](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-titik-koma/)
 
 - Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
     - Misalnya:
@@ -341,7 +341,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
                - (3) berbadan sehat; dan  
                - (4) bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.
 
-### [Tanda Titik Dua](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-titik-dua/)
+#### [Tanda Titik Dua](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-titik-dua/)
 
 - Tanda titik dua serangkai dengan kata di depannya.
     - Misalnya:
@@ -357,7 +357,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Misalnya:
         - Zat kimia tersebut merupakan pencampuran air dan minyak dengan rasio 3:1.
 
-### [Tanda Hubung (-)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/)
+#### [Tanda Hubung (-)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/)
 
 - Tanda hubung dipakai untuk merangkai kata sebagai berikut.
     - sedengan kata berikutnya yang dimulai dengan huruf kapital. Misalnya:
@@ -390,7 +390,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - papan kunci-plastik
         - kotak-kayu kalimantan
 
-### [Tanda Pisah (—)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/)
+#### [Tanda Pisah (—)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/)
 
 - Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
     - Misalnya:
@@ -404,7 +404,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - Tanggal 5—10 April 2013
         - Jakarta—Bandung
 
-### [Tanda Kurung](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-kurung/)
+#### [Tanda Kurung](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-kurung/)
 
 - Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
     - Misalnya:
@@ -425,13 +425,13 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Misalnya:
         - Resistor adalah piranti yang memiliki nilai resistansi tertentu (Echols dan Pieters, 2011).
 
-### [Tanda Kurung Siku](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-kurung-siku/)
+#### [Tanda Kurung Siku](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-kurung-siku/)
 
 - Tanda kurung siku dapat dipakai untuk menyatakan sitasi.
     - Misalnya:
         - Resistor adalah piranti yang memiliki nilai resistansi tertentu [1].
 
-### [Tanda Garis Miring](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-garis-miring/)
+#### [Tanda Garis Miring](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-garis-miring/)
 
 - Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
     - Misalnya:
