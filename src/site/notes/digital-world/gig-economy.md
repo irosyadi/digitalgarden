@@ -3,9 +3,9 @@
 ---
 
 
-# Gig Economy
-
 ## Gig Economy
+
+### Gig Economy
 
 - Workers or self-employed?
 - The court made very specific arguments:
