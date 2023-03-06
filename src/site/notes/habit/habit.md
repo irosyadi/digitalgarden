@@ -3,11 +3,11 @@
 ---
 
 
-# Habit
+## Habit
 
-## Mindfulness Habit
+### Mindfulness Habit
 
-### Physical Wellness
+#### Physical Wellness
 
 - Avoid Alcohol
 - Avoid Caffeine
@@ -25,42 +25,42 @@
 - Stretch it Out
 - Wake up Earlier
 
-### Social Wellness
+#### Social Wellness
 
 - Step outside your comfort zone, get more experiences
 - Stick to personal boundaries
 - Write 3 things you are grateful for
 
-### Mental Wellness
+#### Mental Wellness
 
 - Spend Time in Nature (30 mins)
 - Stop Working after Work Hours
 - Watch the Sunset
 
-### Intellectual Wellness
+#### Intellectual Wellness
 
 - Listen to Podcasts
 - Practice a Hobby
 - Read More (30 mins)
 
-### Spiritual Wellness
+#### Spiritual Wellness
 
 - Form deeper connections
 - Meditate
 - Trust your instincts
 
-## Habit Tracker Apps
+### Habit Tracker Apps
 
 - [HabitNow Daily Routine Planner](https://play.google.com/store/apps/details?id=com.habitnow)
 - [Loop Habit Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
 - [Habit Tracker Planner HabitYou](https://play.google.com/store/apps/details?id=com.habityou.planner.goals.journal.habittracker)
 
-## Behavior
+### Behavior
 
 - habit: trigger, behavior, reward
 - see food, eat food, feel good
 
-## Habit
+### Habit
 
 - [A simple way to break a bad habit - Judson Brewer - YouTube](https://www.youtube.com/watch?v=-moW9jvvMr4&list=PL79A8suCuHLCNk_WNP9EuKROeWg5QwPOP&index=16)
 - [The secret to self control - Jonathan Bricker - TEDxRainier - YouTube](https://www.youtube.com/watch?v=tTb3d5cjSFI)
