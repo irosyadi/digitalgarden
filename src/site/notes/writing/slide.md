@@ -3,6 +3,6 @@
 ---
 
 
-# Slide
+## Slide
 
 Slide is not a goal of a presentation. Presentation is teamwork between [[presenter\|presenters]] and slide.
