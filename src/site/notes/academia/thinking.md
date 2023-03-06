@@ -3,9 +3,9 @@
 ---
 
 
-# Thinking Methods
+## Thinking Methods
 
-## Thinking Strategy
+### Thinking Strategy
 
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained) - Farnam Street](https://fs.blog/mental-models/)
 * [Daniel Dennett's Most Useful Critical Thinking Tools - Farnam Street](https://fs.blog/dan-dannetts-thinking-tools/)
