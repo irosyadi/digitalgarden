@@ -3,13 +3,13 @@
 ---
 
 
-# Photography
+## Photography
 
-## Digital Camera
+### Digital Camera
 
 - [Digital Camera Know Hows from Lumix](https://av.jpn.support.panasonic.com/support/global/cs/dsc/knowhow/index.html)
 
-## Photography
+### Photography
 
 - [Photography Tips for Beginner](https://witandfolly.co/photography-tips-for-beginners/)
 - [Photography Tutorial](https://photographylife.com/what-is-photography)
@@ -20,6 +20,6 @@
 - [Photography Tips](https://www.pixpa.com/blog/photography-tips)
 - [Tips Beginner](https://rainbowplantlife.com/tips-beginner-food-photographer-part-i/)
 
-## Simulator
+### Simulator
 
 - [Exposure Simulator](https://www.andersenimages.com/tutorials/exposure-simulator/)
