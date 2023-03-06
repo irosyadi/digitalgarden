@@ -3,7 +3,7 @@
 ---
 
 
-# Writing in Plain English
+## Writing in Plain English
 
 - [How to Write in Plain English](https://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 - [Writing for gov.uk in Plain English](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
@@ -14,7 +14,7 @@
 - [George Orwell writing about simplifying English.](https://www.orwell.ru/library/essays/politics/english/e_polit)
 - [Summary of book "Style toward Clarity and Grace" by Joseph M. Williams](https://docs.google.com/document/d/1F8_p3bkzugTvkBd1Ja6bHLR2v_XXRWqtcq7jF2gu0EM/edit)
 
-## Tips
+### Tips
 
 - [writing one sentence per line | Derek Sivers](https://sive.rs/1s)
 - [Semantic Linefeeds](https://rhodesmill.org/brandon/2012/one-sentence-per-line/)
@@ -23,7 +23,7 @@
 - [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
 - [The Best Bit of Advice on Writing I've Received by @ttunguz](https://tomtunguz.com/writing-separate-lines/)
 
-## Writing Tips
+### Writing Tips
 
 - Separate writing from editing. Just keep writing, ignore the typos, self-censorship or formatting and keep moving.
 - Separate writing from editing. In writing, try writing one sentence per line.
@@ -31,9 +31,9 @@
 - Limit each paragraph to a single message. A single sentence can be a paragraph.
 - Keep sentences short, simply constructed and direct.
 
->> This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety.
-Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.
->> So I write with a combination of short, medium, and long sentences. Create a sound that pleases the reader's ear. Don't just write words. Write music.
+>> This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety.  
+Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.  
+>> So I write with a combination of short, medium, and long sentences. Create a sound that pleases the reader's ear. Don't just write words. Write music.  
 (Gary Provost)
 
 The following are more of McCarthy's words of wisdom, as told by Savage and Yeh.
