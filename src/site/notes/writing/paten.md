@@ -3,11 +3,11 @@
 ---
 
 
-# Paten
+## Paten
 
-## Paten dan Invensi
+### Paten dan Invensi
 
-## Definisi Paten
+### Definisi Paten
 
 - Paten adalah hak eksklusif yang diberikan oleh negara kepada inventor atas hasil invensinya di bidang teknologi, yang untuk selama waktu tertentu melaksanakan sendiri invensinya tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya.
 - Paten adalah produk, proses, atau pengembangannya yang mempunyai fungsi atau solusi teknis atas permasalahan yang ada
@@ -20,20 +20,20 @@
 	- Deskripsi paten menentukan lingkup perlindungan dan mempengaruhi lamanya waktu pemeriksaan
 	- Deskripsi paten harus menjelaskan secara lengkap invensinya, jika telah didaftarkan tidak dapat diperluas lagi atau ditambah dengan hal-hal yang baru
 
-### Definisi Invensi
+#### Definisi Invensi
 
-Temuan vs Invensi
+Temuan vs Invensi  
 Invensi melibatkan rekayasa manusia, bukan sekedar menemukan (temuan) sesuatu di alam.
 
-**Contoh:**
-Insulin tidak bisa dipatenkan
+**Contoh:**  
+Insulin tidak bisa dipatenkan  
 *Penicillium Notatum* itu tidak bisa dipatenkan
 
 Penicillin menjadi Amoxicillin itu invensi
 
 Kreasi estetika bukan invensi dan tidak bisa dipatenkan, tetapi bisa di-hakcipta-kan.
 
-Tetapi ada hal yang bisa keduanya:
+Tetapi ada hal yang bisa keduanya:  
 Contoh alur ban:
 
 - bisa invensinya, jika ada fungsi dari alur ban
@@ -41,7 +41,7 @@ Contoh alur ban:
 
 Skema (gambar alur, flow chart) itu bukan invensi, akan tetapi proses merupakan invensi.
 
-Aturan dan metode yang hanya berisi program komputer itu bukan invensi, tapi hak cipta.
+Aturan dan metode yang hanya berisi program komputer itu bukan invensi, tapi hak cipta.  
 Tetapi gabungan melibatkan SW dan HW itu merupakan invensi.
 
 Presentasi suatu informasi itu bukan invensi
@@ -60,7 +60,7 @@ Objek perlindungan paten
 - Proses
 - Penyempurnaan proses
 
-### Invensi yang Tidak Bisa Dipatenkan
+#### Invensi yang Tidak Bisa Dipatenkan
 
 - Bertentangan dengan hukum, moralitas, agama, ktertiban umum, kesusilaan
 - Metode pemeriksaan, perawatan, pengobatan dan atau pembedahan manusia/hewan
@@ -68,7 +68,7 @@ Objek perlindungan paten
 - Makhluk hidup (kecuali jasad renik)
 - Proses biologi esensial untuk produks tanaman/hewan (kecuali proses nonbiologis atau proses mikrobiologis)
 
-### Kategori Paten
+#### Kategori Paten
 
 - Paten
 	- produk,
@@ -80,7 +80,7 @@ Objek perlindungan paten
 	- produk
 	- kegunaan fitur
 
-### Kategori dan Jenis Invensi
+#### Kategori dan Jenis Invensi
 
 - produk, alat, formulasi/komposisi
 - proses,
@@ -88,9 +88,9 @@ Objek perlindungan paten
 - aplikasi/penggunaan/sistem
 - atau gabungannya dengan syarat satu kesatuan invensi
 
-## Patentabilitas
+### Patentabilitas
 
-### Syarat Patentabilitas
+#### Syarat Patentabilitas
 
 - Kebaruan (novelty) yang bersifat global
 	- Novelty dalam perwujudan dan batas waktu (6 bulan setelah pengumuman harus didaftarkan)
@@ -104,26 +104,26 @@ Objek perlindungan paten
 	- Dalam invensi berupa produk, produk yang dapat diterapkan dalam industri harus mampu dibuat secara berulang-ulang (secara massal) dengan kualitas yang sama,
 	- Dalam invensi berupa proses, maka proses tersebut harus mampu dijalankan atau digunakan dalam praktek.
 
-### Batas-batas Novelty (?)
+#### Batas-batas Novelty (?)
 
 - Penggabungan dua/lebih invensi yang beberapa di antaranya tidak baru
 - Penggabungan dua/lebih invensi yang kesemuanya tidak baru
 - Penggabungan dua/lebih invensi yang kesemuanya baru
 
-### Langkah Inventif
+#### Langkah Inventif
 
 - Jika klaim tersebut bagi seseorang yg ahli di bidang tersebut merupakan hal yang tidak terduga sebelumnya (non-obvious).
 - Penilaian dilakukan dengan memperhatikan keahlian yang ada pada saat Permohonan diajukan.
 - Harus bersifat antisipatif; hasil pemikiran kreatif, dan merupakan tahapan yang mengandung peningkatan atau keunggulan teknologi atau bermanfaat lain dari prior art
 - Peningkatannya signifikan dan mutlak
 
-### Problem-Solution Approach dalam Paten
+#### Problem-Solution Approach dalam Paten
 
 - Menentukan prior art yang terdekat
 - Memformulasikan tujuan masalah teknik yang akan dipecahkan
 - Apakah invensi yang diklaim sudah bisa diduga oleh orang yang tahu di bidang tersebut
 
-### Prediksi Patentabilitas dengan Penelusuran Prior Art
+#### Prediksi Patentabilitas dengan Penelusuran Prior Art
 
 - Prior art atau pembanding mengacu pada informasi ilmiah dan teknis yang ada sebelum tanggal penerimaan Permohonan Paten (= filing date).
 - Prior art atau pembanding dapat ditemukan dalam dokumen publik seperti Paten, publikasi teknis, makalah konferensi, brosur pemasaran, produk, perangkat, peralatan, proses dan bahan lainnya.
@@ -136,9 +136,9 @@ Objek perlindungan paten
 	- Keyword search
 	- Field search (alat, metode, komposisi, proses, senyawa, penggunaan/fungsi/indikasi)
 
-## Dokumen Paten
+### Dokumen Paten
 
-### Aspek Dokumen Paten
+#### Aspek Dokumen Paten
 
 - Aspek Perlindungan
 	- Klaim merupakan pagar perlindungan
@@ -149,7 +149,7 @@ Objek perlindungan paten
 	- Menjadi insentif bagi pengembangan ilmu pengetahuan
 	- Apa yang tertuang dapat mengantisipasi klaim pihak lain
 
-### Format Dokumen Paten
+#### Format Dokumen Paten
 
 - Bagian 1: Deskripsi
 	- Judul
@@ -162,9 +162,9 @@ Objek perlindungan paten
 - Bagian 3: Abstrak
 - Bagian 4: Gambar (jika ada)
 
-## Deskripsi Invensi
+### Deskripsi Invensi
 
-### Judul
+#### Judul
 
 - Bersifat:
 	- singkat dan jelas menggambarkan bidang teknik dan invensi
@@ -185,7 +185,7 @@ Objek perlindungan paten
 - Biasanya
 	- dituliskan dengan kapital
 
-### Bidang Teknik Invensi
+#### Bidang Teknik Invensi
 
 - Merupakan:
 	- highlight dari judul invensi
@@ -198,10 +198,10 @@ Objek perlindungan paten
 - Bersifat:
 	- menonjolkan kebaharuan dan kekhususan invensi yang ditemukan relatif dibanding prior art.
 - Biasanya:
-	- ditulis dalam bentuk "Invensi ini berhubungan dengan ..." atau "Invensi ini berkaitan dengan ..." atau "Invensi ini berkaitan dengan alat/metode untuk ..., khususnya alat/metode untuk ... yang memiliki .... sehingga ... "
+	- ditulis dalam bentuk "Invensi ini berhubungan dengan …" atau "Invensi ini berkaitan dengan …" atau "Invensi ini berkaitan dengan alat/metode untuk …, khususnya alat/metode untuk … yang memiliki …. sehingga … "
 	- dinyatakan dalam satu atau dua kalimat
 
-### Latar Belakang Invensi
+#### Latar Belakang Invensi
 
 - Fungsi:
 	- mengungkapkan prior art terdekat (kelemahan dan fitur yang tak terantisipasi)
@@ -217,7 +217,7 @@ Objek perlindungan paten
 - Sumber:
 	- dokumen paten, jurnal, dll
 
-### Ringkasan Invensi (Uraian Singkat Invensi)
+#### Ringkasan Invensi (Uraian Singkat Invensi)
 
 - Sifat:
 	- Uraian Singkat Invensi = Ringkasan Invensi (Tujuan Invensi + Klaim)
@@ -236,7 +236,7 @@ Objek perlindungan paten
 - Sebaiknya
 	- ringkasan invensi ditulis setelah penulisan klaim selesai
 
-### Uraian Lengkap Invensi
+#### Uraian Lengkap Invensi
 
 - Merupakan:
 	- deskripsi rinci dari invensi
@@ -275,7 +275,7 @@ Objek perlindungan paten
 	- menyatakan pendekatan "pemecahan masalah" yang didahului dengan menguraikan masalah terlebih dahulu dan kemudian menjelaskan solusinya
 	- penjelasan dalam uraian lengkap invensi dapat lebih luas dari klaim inti invensi
 
-### Uraian Singkat Gambar
+#### Uraian Singkat Gambar
 
 - Merupakan:
 	- penjelasan atau caption atas gambar
@@ -289,9 +289,9 @@ Objek perlindungan paten
 - Fungsi:
 	- dibutuhkan untuk memperjelas klaim
 
-## Klaim
+### Klaim
 
-### Kaidah dari Klaim
+#### Kaidah dari Klaim
 
 - Klaim adalah unsur perlindungan hukum atas invensi yang diajukan, penulisan klaim harus jelas
 - Klaim merupakan nyawa, bagian paling penting, dari suatu invensi, penulisan klaim memuat batasan atau cakupan dari inti invensi.
@@ -299,7 +299,7 @@ Objek perlindungan paten
 - Fitur yang menjadi klaim harus didukung dan dijelaskan di dalam deskripsi
 - Klaim boleh lebih dari satu klaim dan dapat berupa klaim mandiri dan klaim turunan.
 
-### Cara Penulisan Klaim
+#### Cara Penulisan Klaim
 
 - penulisan klaim menentukan invensi yang ingin dilindungi
 - penulisan klaim harus jelas, singkat
@@ -315,24 +315,24 @@ Objek perlindungan paten
 - boleh memuat tabel, rumus kimia, dan atau matematika
 - boleh menggunakan notasi-notasi (huruf atau angka di antara tanda kurung, yang mengacu pada gambar) yang ditulis secara konsisten, apabila permohonan menyertakan gambar
 
-### Pemilihan Kata dan Cakupan Perlindungan
+#### Pemilihan Kata dan Cakupan Perlindungan
 
 - General concept
-	- 'Suatu peralatan untuk menulis ...'
-	- 'Suatu alas kaki ...'
+	- 'Suatu peralatan untuk menulis …'
+	- 'Suatu alas kaki …'
 - Specific concept
-	- 'Suatu pensil ...'
-	- 'Suatu sepatu ...'
+	- 'Suatu pensil …'
+	- 'Suatu sepatu …'
 - Embodiment level
-	- 'Suatu pensil berbentuk silinder memanjang ...'
-	- 'Suatu sepatu yang memiliki sol sepatu dengan rongga udara ...'
+	- 'Suatu pensil berbentuk silinder memanjang …'
+	- 'Suatu sepatu yang memiliki sol sepatu dengan rongga udara …'
 
-### Waktu Penulisan Klaim
+#### Waktu Penulisan Klaim
 
 - Sebaiknya, klaim dibuat sebelum menyusun deskripsi dan abstrak invensi. Deskripsi berfungsi menjelaskan klaim.
 - Sebaiknya, sketsa atau gambar klaim dibuat terlebih dahulu sebelum penulisan klaim untuk memperjelas klaim dan invensi. Sketsa atau gambar akan bermanfaat membantu memahami invensi dan menentukan poin kebaruan
 
-### Tantangan Menulis Klaim
+#### Tantangan Menulis Klaim
 
 - Menulis klaim yang terlalu luas (covering prior art), menyebabkan
 	- memudahkan terantisipasi oleh fitur yang lebih spesifik (karena klaim fitur spesifik akan mengalahkan fitur yang generik)
@@ -343,7 +343,7 @@ Objek perlindungan paten
 	- risiko tidak mendapatkan perlindungan
 - Menulis klaim namun yang tidak diinginkan invensi, karena gagal dalam mengidentifikasi invensi
 
-### Kategori Klaim
+#### Kategori Klaim
 
 - Klaim yang kasat mata/tangible:
 	- klaim produk, alat, sistem, komposisi/formula
@@ -351,14 +351,14 @@ Objek perlindungan paten
 	- klaim metode, proses
 	- klaim penggunaan
 
-### Penulisan Kategori Klaim
+#### Penulisan Kategori Klaim
 
 - Tuliskan semua kategori yang mungkin dalam invensi dengan setiap kategori ditulis sebagai klaim mandiri.
 - Penulisan kategori klaim yang berbeda dilakukan secara terpisah, tidak tercampur dalam satu klaim, atau berselang-seling.
 
-### Teknik Penulisan Klaim
-
 #### Teknik Penulisan Klaim
+
+##### Teknik Penulisan Klaim
 
 - Dua bagian (two part form, two part claim, European style)
 	- biasanya
@@ -368,7 +368,7 @@ Objek perlindungan paten
 		- digunakan jika belum ada invensi sebelumnya yang terkait atau dokumen pembanding terkait (prior art) tidak diketahui
 		- klaim ini memuat pernyataan tunggal dalam satu kesatuan invensi atau satu klaim mandiri saja
 
-#### Struktur Klaim dalam Two Part Form (European style)
+##### Struktur Klaim dalam Two Part Form (European style)
 
 - Bagian pertama (preamble klaim, kalimat pembuka)
 	- bagian atau statement pembuka dari suatu klaim (terletak di bagian awal dari klaim)
@@ -378,7 +378,7 @@ Objek perlindungan paten
 	- mengandung pernyataan yang menunjukkan bidang teknik (judul invensi)
 	- mengandung fitur dari dari invensi sebelumnya (prior art);
 	- menyatakan alat, proses, metode, komposisi, penggunaan
-		- contoh: 'suatu alat untuk memasak beras ...'
+		- contoh: 'suatu alat untuk memasak beras …'
 - Pernyataan penghubung (connecting part, fase transisi)
 	- terletak setelah preamble
 	- fungsinya untuk menghubungkan preamble dengan badan klaim
@@ -398,16 +398,16 @@ Objek perlindungan paten
 	- memuat fitur-fitur atau bagian-bagian invensi yang dimintakan perlindungan hukum
 	- terletak di bagian akhir dari klaim
 
-#### Struktur Klaim dalam One Part Form (American style)
+##### Struktur Klaim dalam One Part Form (American style)
 
 - Sebuah pernyataan tunggal yang terdiri dari dua bagian disertai frase transisi di antara kedua bagian:
 	- bagian 1: menjelaskan fitur-fitur invensi sebelumnya
-	- frase transisi seperti 'dicirikan oleh ...', 'yang mana ...'
+	- frase transisi seperti 'dicirikan oleh …', 'yang mana …'
 	- bagian 2: menunjukkan kebaruan invensi
 - Contoh:
 	- Alat perangkap hama kumbang yang terdiri atas pengait (1), atap umpan feromon (2), umpan feromon (3), sayap (4), corong (5), dan penampung (6), dicirikan oleh sayap (4) yang dikembangkan sesuai invensi ini dibuat berbentuk empat persegi panjang dengan ukuran 18 x 30 cm dengan 3 tipe bagian sayap, yaitu dua sayap disusun dengan sudut 180°, tiga sayap disusun dengan sudut 120°, dan empat sayap disusun dengan sudut 90°, lebih disukai empat sayap disusun dengan sudut 90°.
 
-#### Doktrin Klaim
+##### Doktrin Klaim
 
 - Klaim merupakan *patentable claim* sesuai dengan undangundang
 - Klaim dan dokumen paten harus bersifat clear, concise da consistence
@@ -416,7 +416,7 @@ Objek perlindungan paten
 - Pernyataan klaim antara yang intangible dan tangible harus terpisah
 - Pernyataan klaim yang intangible tidak mengandung yang tangible dan sebaliknya
 
-#### Doktrin Klaim Sempit mengatasi yang Luas
+##### Doktrin Klaim Sempit mengatasi yang Luas
 
 - Prinsip: "yang luas tidak dapat mengantisipasi kebaruan dari yang sempit" tetapi "yang sempit dapat mengantisipasi kebaruan dari yang luas".
 - Contoh klaim luas:
@@ -424,12 +424,12 @@ Objek perlindungan paten
 - Contoh klaim sempit:
 	- Suatu komposisi herbisida yang mengandung senyawa X, senyawa Y, dan pembawa yang sesuai, yang mana dalam komposisi tersebut perbandingan senyawa X dan senyawa Y **adalah 1:3**.
 
-### Jenis Klaim
+#### Jenis Klaim
 
 - Klaim mandiri (independent claim), klaim yang tidak tergantung dengan klaim-klaim lainnya
 - Klaim turunan (dependent claim), klaim yang tergantung klaim yang diacunya
 
-### Jumlah Klaim
+#### Jumlah Klaim
 
 - Satu klaim
 - Lebih dari satu klaim
@@ -439,7 +439,7 @@ Objek perlindungan paten
 		- proses dan peralatan khusus dirancang untuk melaksanakna proses
 		- produk, proses yang secara khusus diguankan untuk pembuatan produk itu, dan peralatan untuk melaksanakan proses pembuatan produk itu
 
-### Klaim tak Jelas (unclear relative)
+#### Klaim tak Jelas (unclear relative)
 
 - Invensi yang tidak mampu didefinisikan atau dibatasi dengan tepat, sehingga perlindungan yang diinginkan terlalu luas dan tidak jelas:
 - Jenis Klaim tak Jelas
@@ -448,27 +448,27 @@ Objek perlindungan paten
 	- Tipe 2: Perluasan Invensi
 		- Kalimat negatif dengan kata negatif seperti 'kecuali', 'bukan', 'bahan yang terbuat dari **bukan** plastik'
 		- Kisaran (range) numerik dengan batas atas atau bawah seperti 'suhu **kurang dari** x derajat', 'waktu **lebih dari** y menit'
-		- Perbandingan yang tidak jelas seperti '... yang lebih tebal', '... yang lebih kuat'
-		- Tidak memiliki batasan yang jelas (diskret) seperti '... sesuai yang diinginkan', '... sesuai yang diharapkan'. '... secukupnya'
-		- Kisaran numerik dengan memasukkan angka 0, seperti '... 0-10% dari berat A dan 0-60% dari berat B'
+		- Perbandingan yang tidak jelas seperti '… yang lebih tebal', '… yang lebih kuat'
+		- Tidak memiliki batasan yang jelas (diskret) seperti '… sesuai yang diinginkan', '… sesuai yang diharapkan'. '… secukupnya'
+		- Kisaran numerik dengan memasukkan angka 0, seperti '… 0-10% dari berat A dan 0-60% dari berat B'
 		- Uraian klaim diganti dengan gambar atau penjelasan pada uraian lengkap, seperti 'suatu alat seperti yang ada pada gambar 1', 'suatu paduan Fe dan Al seperti pada gambar 2'
 	- Tipe 3: Pilihan yang tidak setara (equal)
 		- Invensi dideskripsikan dalam pilihan bentuk, tetapi pilihan tersebut tidak memiliki sifat atau fungsi yang sejenis. Contoh “Suatu transmiter atau receiver dengan sumber daya khusus"
 
-### Klaim tak Padat
+#### Klaim tak Padat
 
 - Pengulangan penjelasan yang bermakna sama
 - Menguraikan secara detail sesuatu yang tidak diklaim (tidak fokus)
 - Pengulangan istilah asing dan Indonesia secara bersama-sama. Gunakan istilah Indonesia jika sudah ada, jika belum tetap gunakan istilah asing dengan cetak miring.
 
-### Klaim tak Konsisten
+#### Klaim tak Konsisten
 
 - Tidak konsisten dalam istilah
 - Tidak konsisten ciri invensi antara gambar, klaim dan uraian (deskripsi)
 - Ciri invensi pada klaim tidak ada di deskripsi atau sebaliknya
 - Tidak konsisten antara klaim satu dengan lainnya
 
-## Abstrak
+### Abstrak
 
 - Merupakan
 	- ringkasan invensi
@@ -491,7 +491,7 @@ Objek perlindungan paten
 	- memuat gambar untuk keperluan publikasi paten
 	- memuat rumus kimia atau matematika, formula, tabel, yang diperlukan untuk menjelaskan invensi
 
-## Gambar
+### Gambar
 
 - Mencakup
 	- bagian pokok invensi yang diklaim (yang tidak diklaim tidak perlu digambar)
@@ -504,7 +504,7 @@ Objek perlindungan paten
 	- Dilampirkan dalam spesifikasi dalam spesifikasi invensi pada bagian paling belakang, tanpa nomor halama dan nomor baris
 	- Dalam gambar hanya tanda yang berupa huruf atau angka yang boleh dicantumkan dan tidak dibenarkan dalam bentuk tulisan/uraian, kecuali bila tulisan sangat diperlukan sebagai bagian dari gambar yang bersangkutan.
 
-## Langkah Penyusunan Dokumen Paten
+### Langkah Penyusunan Dokumen Paten
 
 - Melakukan penelusuran
 	- Kumpulkan hasil-hasil penelitian untuk memperoleh “keyword” dalam penelusuran.
@@ -523,7 +523,7 @@ Objek perlindungan paten
 - Menyusun abstrak
 - Menentukan judul
 
-## Data base Penelusuran Paten
+### Data base Penelusuran Paten
 
 - [Google Patent](https://patents.google.com/)
 - [PDKI Indonesia](https://pdki-indonesia.dgip.go.id/)
