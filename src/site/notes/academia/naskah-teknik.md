@@ -3,7 +3,7 @@
 ---
 
 
-# Penulisan Naskah Ilmiah Bidang Teknik Elektro
+## Penulisan Naskah Ilmiah Bidang Teknik Elektro
 
 Panduan penulisan naskah ilmiah di bidang Teknik Elektro.
 
@@ -11,7 +11,7 @@ Link terkait:
 🔗 [Istilah Baku di Bidang Teknik Elektro](academia/kbbi-teknik.md)  
 🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](academia/puebi-teknik.md)
 
-## Pedoman Dasar Penulisan Naskah Ilmiah
+### Pedoman Dasar Penulisan Naskah Ilmiah
 
 - Awali dengan membaca pedoman penulisan dan patuhi seluruh pedoman. Untuk Teknik Elektro Unsoed, pedoman yang dipakai adalah [podoterus](https://github.com/Elektro-Unsoed/podoterus).
 - Tulis naskah dengan mengaktifkan fitur pemeriksa ejaan (*spell checker*) bahasa Indonesia pada pengolah kata anda.
@@ -25,7 +25,7 @@ Link terkait:
 - Cantumkan setiap sitasi (kutipan, rujukan) yang bersumber dari naskah lain. Cara menuliskan sitasi dengan gaya IEEE adalah seperti contoh berikut.
     - "Kalimat ini merupakan sitasi dari naskah [12] dan juga bersumber dari rujukan [13].
 
-## Teknologi untuk Penulisan Naskah dalam Bahasa Indonesia
+### Teknologi untuk Penulisan Naskah dalam Bahasa Indonesia
 
 - Gunakan pengolah kata (*word processor*) seperti Microsoft Word, Libre Office, atau Google Docs dan maksimalkan semua fitur yang ada. Fitur yang sebaiknya anda kuasai adalah:
     - *Style*. Atur*style* seperti *normal*, *heading 1*, *heading 2*, *heading 3*, *caption*, dll. Atur penomoran otomatis secara bertingkat (*multilevel list*) pada *heading*.
@@ -44,21 +44,21 @@ Link terkait:
 - Periksa padanan kata yang tepat dengan menelusuri istilah asingnya pada [Wikipedia](https://en.wikipedia.org/) lalu pada bilah kiri pada menu *Languages* pilih Bahasa Indonesia untuk mencari padanannya pada bahasa Indonesia.
 - Buat penyerapan istilah asing menjadi bahasa Indonesia dengan pedoman [Buku Penyuluhan Tata Istilah](https://rumahpusbin.kemdikbud.go.id/buku/Buku%20Penyuluhan%20Tata%20Istilah.pdf), atau [Wikipedia:Pedoman penyerapan istilah](https://id.wikipedia.org/wiki/Wikipedia:Pedoman_penyerapan_istilah). Aplikasi penerjemah seperti [Google Translate](https://translate.google.com/) dapat pula dipakai untuk menyerap istilah asing.
 
-## Podoterus
+### Podoterus
 
-### Nama Diri di FT Unsoed
+#### Nama Diri di FT Unsoed
 
 - Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
 - Universitas Jenderal Soedirman
 
-### Maksud Naskah
+#### Maksud Naskah
 
 - Disusun untuk untuk memenuhi salah satu persyaratan memperoleh gelar Sarjana Teknik pada Program Studi Teknik Elektro, Fakultas Teknik, Universitas Jenderal Soedirman
 - Diajukan untuk memenuhi salah satu persyaratan memperoleh gelar Sarjana Teknik pada Program Studi Teknik Elektro, Fakultas Teknik, Universitas Jenderal Soedirman
 
-## Gaya Penulisan
+### Gaya Penulisan
 
-### Gaya Menulis Istilah
+#### Gaya Menulis Istilah
 
 - Periksa istilah kosakata pada naskah dengan tahapan sebagai berikut.
     - Jika istilah yang dimaksud terdapat di KBBI, gunakan istilah dalam KBBI.
@@ -68,17 +68,17 @@ Link terkait:
 - Cantumkan definisi atau maksud dari istilah dalam suatu paragraf atau dalam daftar istilah.
 - Tuliskan definisi/maksud istilah saat istilah tersebut pertama kali dituliskan. Selanjutnya definisi/maksud tersebut tak perlu diulang lagi.
 
-### Gaya Menulis Naskah
+#### Gaya Menulis Naskah
 
 - Setiap kalimat harus sempurna (minimal memiliki Subyek dan Predikat).
 - Paragraf terdiri dari beberapa kalimat. Hindari paragraf hanya dengan satu kalimat.
 - Setiap paragraf harus memiliki suatu gagasan utama. Gagasan utama dapat diletakkan di awal (deduktif) atau di akhir (induktif) atau awal dan akhir paragraf.
 
-### Gaya Menulis Singkatan
+#### Gaya Menulis Singkatan
 
 - Ketika singkatan/akronim sudah diterangkan kepanjangannya pada daftar istilah atau pada paragraf sebelumnya, maka tak perlu diulang kepanjangannya pada paragraf selanjutnya.
 
-### Gaya Menulis Gambar/Tabel
+#### Gaya Menulis Gambar/Tabel
 
 - Gambar/tabel harus dirujuk dalam naskah dan memiliki posisi sedekat mungkin dengan naskah yang merujuknya.
 - Nomobr gambar/tabel berurut sesuai dengan urutan perujukannya dalam naskah.
@@ -88,7 +88,7 @@ Link terkait:
 - Pada tabel, semua baris dan kolom membutuhkan judul (*header*).
 - Setiap gambar/tabel harus memiliki keterangan (*caption*)
 
-### Gaya Menulis Keterangan (*Caption*) Gambar/Tabel
+#### Gaya Menulis Keterangan (*Caption*) Gambar/Tabel
 
 - Keterangan bersifat deskriptif dan memberikan informasi tambahan terhadap naskah
 - Ketika menerangkan tabel atau grafik, deskripsikan variabel terkait
@@ -98,13 +98,13 @@ Link terkait:
 - Keterangan dapat berupa judul atau kalimat utuh.
 - Tips menulis keterangan adalah seperti ketika kita menceritakan ringkas suatu gambar/tabel pada orang lain
 
-## Daftar Persiapan Penulisan Naskah
+### Daftar Persiapan Penulisan Naskah
 
 - [ ] Baca pedoman penulisan.
 - [ ] Pelajari fitur perangkat lunak pengolah kata.
 - [ ] Siapkan dan atur fitur *style* khususnya *heading*, *normal*, dan *caption*.
 
-## Daftar Pemeriksaan Naskah
+### Daftar Pemeriksaan Naskah
 
 - [ ] Periksa penulisan nama dan gelar.
 - [ ] Periksa penulisan nama dan singkatan lembaga dan organisasi.
@@ -119,7 +119,7 @@ Link terkait:
 - [ ] Periksa penulisan sitasi dan daftar pustaka.
 - [ ] Periksa pembuatan daftar pustaka, daftar gambar, dan daftar tabel.
 
-## Naskah Laporan Kerja Praktik
+### Naskah Laporan Kerja Praktik
 
 - Bab 1 : Latar belakang yang mengantarkan kepada judul
     - konteks (seperti: Indonesia, industri, dll.)
