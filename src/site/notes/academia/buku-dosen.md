@@ -3,9 +3,9 @@
 ---
 
 
-# Kategorisasi Buku untuk Dosen
+## Kategorisasi Buku untuk Dosen
 
-## Buku Referensi (Reference Book)
+### Buku Referensi (Reference Book)
 
 - [Reference Book](https://www.lisbdnet.com/reference-book-its-characteristics-and/)
 - [Reference Work](https://www.wikiwand.com/en/Reference_work)
@@ -21,7 +21,7 @@ Menurut DIKTI:
 - Diterbitkan oleh Badan Ilmiah/Organisasi/PT
 - Bidang Penelitian, Angka Kredit Maksimal : 40, Batas Kepatutan : 1 buku/tahun
 
-## Monograph
+### Monograph
 
 - [Seluk Beluk Buku Monograf](https://www.kompasiana.com/bambangtrim/5eaa554c097f36150669d492/antibingung-soal-buku-dan-angka-kredit-dosen?page=all)
 - [Buku menurut Dikti](https://civitas.uns.ac.id/masruralatas/2017/12/05/hyperlink-penulis-pemula/)
@@ -44,7 +44,7 @@ Catatan:
     - sifat: buku referensi adalah bersifat referensi menyeluruh pada suatu topik/bidang ilmu tertentu
     - halaman: biasanya halamannya lebih tebal (ratusan)
 
-## Buku Ajar
+### Buku Ajar
 
 Menurut Dikti:
 
@@ -53,7 +53,7 @@ Menurut Dikti:
 - Diterbitkan secara resmi dan disebarluaskan.
 - Bidang Pengajaran, Angka Kredit Maksimal : 20, Batas Kepatutan : 1 buku/tahun
 
-## Diktat
+### Diktat
 
 Menurut Dikti:
 
@@ -63,7 +63,7 @@ Menurut Dikti:
 - Disebarluaskan Kepada Peserta Kuliah
 - Angka Kredit Maksimal : 5, Batas Kepatutan : 1 buku/tahun
 
-## Modul
+### Modul
 
 Menurut Dikti:
 
@@ -73,7 +73,7 @@ Menurut Dikti:
 - Disebarluaskan kepada Peserta Kuliah
 - Angka Kredit Maksimal : 5, Batas Kepatutan : 1 produk/tahun
 
-## Petunjuk Praktikum
+### Petunjuk Praktikum
 
 Menurut Dikti:
 
@@ -83,21 +83,21 @@ Menurut Dikti:
 - Mengikuti kaidah tulisan ilmiah
 - Angka Kredit Maksimal : 5, Batas Kepatutan : 1 produk/semester
 
-## Buku Terjemah
+### Buku Terjemah
 
 Menurut DIKTI:
 
 - Memiliki ISBN
 - Bidang Penelitian, Angka Kredit Maksimal : 15
 
-## Editor Buku
+### Editor Buku
 
 Menurut DIKTI:
 
 - Memiliki ISBN
 - Bidang Penelitian, Angka Kredit Maksimal : 10
 
-## Catatan tentang Buku
+### Catatan tentang Buku
 
 - Ebook di PAK?
     - PAK belum mengakomodasi ebook
