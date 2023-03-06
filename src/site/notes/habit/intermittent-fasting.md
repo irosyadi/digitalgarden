@@ -3,13 +3,13 @@
 ---
 
 
-# Intermittent Fasting
-
 ## Intermittent Fasting
+
+### Intermittent Fasting
 
 - Intermittent Fasting [Washington Post Article](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html), [HN Discussion](https://news.ycombinator.com/item?id=23514651)
 
-## Intermittent Fasting Apps
+### Intermittent Fasting Apps
 
 - [Fasting - Intermittent Fasting](https://play.google.com/store/apps/details?id=bodyfast.zero.fastingtracker.weightloss)
     - Features: Body status, water drinking log, sync (Google Account), weight log, flexible fast time, suggestion and insight, statistics (timeline, cumulative, streak, longest, fasting graph, weight graph, drinking graph, BMI calculation), trophies, dark theme, colorful design.
@@ -19,7 +19,7 @@
 - [PEP: Intermittent Fasting - starvation tracker](https://play.google.com/store/apps/details?id=com.fivecraft.pep_fasting_free)
 - [Simple Fasting Tracker](https://play.google.com/store/apps/details?id=com.cooper.fasting)
 
-## Intermittent Fasting
+### Intermittent Fasting
 
 - Level 1 (0h - 2h): **Blood Sugar Rises**. You'll feel pretty normal during the first fast hours of fasting because your body is going through the regular process of breaking down glycogen. Your bloood sugar rises. Your pancreas releases insulin to break down glucose for energy and stores the extra glucose for later.
 - Level 2 (2h - 5h): **Blood Sugar Falls**. As a result of the effects of insulin, your blood sugar decreases to near normal after spiking. And it typically doesn't continue climbing because insulin is immediately delivered into your circulatory system after eating.
