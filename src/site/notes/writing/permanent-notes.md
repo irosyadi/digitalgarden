@@ -3,9 +3,9 @@
 ---
 
 
-# Permanent Notes
+## Permanent Notes
 
-Permanent Notes in Zettelkasten should follow this framework...
+Permanent Notes in Zettelkasten should follow this framework…
 
 - One idea per note - but as complete as possible in your own words
 - Write as if you are writing for someone else - use full sentences, show sources.
