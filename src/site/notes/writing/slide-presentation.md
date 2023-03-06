@@ -3,9 +3,9 @@
 ---
 
 
-# Slide and Presentation Tips
+## Slide and Presentation Tips
 
-## Slide Tips
+### Slide Tips
 
 - Slides that are text only distract the audience. They read the text.
 - Slides that are non-self-explanatory images, _require_ the audience to listen to the speaker. Try it. Put two circles on the screen and see what people do. They look at you for explanation.
@@ -20,7 +20,7 @@
 - But, slides with images and no text are a nightmare for non visual person.
 - So good slides are: important graphs with little text
 
-## Presentation Tips
+### Presentation Tips
 
 - See [Patrick Wilson's "How To Speak"](https://www.youtube.com/watch?v=Unzc731iCUY)
     - How to Start
@@ -57,7 +57,7 @@
         - How do you express the notion that you've done something? By listing the steps that need to be taken in order to achieve the solution to that problem.
         - And then you conclude by you conclude by enumerating your contributions.
         - All of that should be done real quick in no more than 5 min.
-    - Getting Famous: about how you're going to be recognized for what you do. Your ideas are
+    - Getting Famous: about how you're going to be recognized for what you do. Your ideas are  
 like your children, so what you want to do is to be sure that you have techniques, mechanisms, thoughts about how to present ideas that you have so that they're recognized for the value that is in them.
     - If you want to your ideas be remembered you've got to have "5 S":
         - Symbols associate with your ideas (visual perception is the best way to attract attention)
@@ -76,9 +76,9 @@ like your children, so what you want to do is to be sure that you have technique
         - Put the end with:
             - contribution
             - jokes, since people then will leave the event feeling fun and thus keep a good memory of your talk.
-            - a salute to people (how much you valued the time being here, the people over here..., “I'd like to get back, it was fun!"). With this you won't have to worry about how to end!
+            - a salute to people (how much you valued the time being here, the people over here…, “I'd like to get back, it was fun!"). With this you won't have to worry about how to end!
 
-## Presentation Tips by <https://soappresentations.com/>
+### Presentation Tips by <https://soappresentations.com/>
 
 - Wow your audience with a great story
     - Instead of thinking: "What slides should I use", try asking, "What story do I tell?"
