@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/academia/ml-untuk-siapa-saja/","title":"Pembelajaran Mesin","noteIcon":""}
+{"dg-publish":true,"permalink":"/academia/ml-untuk-siapa-saja/","title":"Pembelajaran Mesin (_Machine Learning_)","noteIcon":""}
 ---
 
 
-# Pembelajaran Mesin (_Machine Learning_)
+## Pembelajaran Mesin (_Machine Learning_)
 
 Translation of [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) in Indonesian.
 
-## Mengapa kita ingin mesin bisa belajar?
+### Mengapa kita ingin mesin bisa belajar?
 
 [![](https://i.vas3k.ru/7vv.jpg)](https://i.vas3k.ru/7vv.jpg)
 
@@ -27,31 +27,31 @@ Dan, ternyata bisa. Hal yang paling menyenangkan adalah ternyata terbukti mesin 
 
 Itulah yang menjadi asal muasal lahirnya pembelajaran mesin (_machine learning_).
 
-## Tiga Komponen Pembelajaran Mesin
+### Tiga Komponen Pembelajaran Mesin
 
 Tujuan sebenarnya dari pembelajaran mesin adalah untuk memprediksi hasil berdasarkan data yang disediakan. Semua pekerjaan pembelajaran mesin harus dapat dinyatakan dengan cara seperti ini. Kalau tidak seperti itu berarti sejak awal itu bukan merupakan pekerjaan dari pembelajaran mesin.
 
 Semakin banyak variasi dari sampel yang kita punya, maka akan menjadi lebih mudah bagi mesin untuk mencari pola yang relevan dan memperkirakan hasilnya. Oleh karena itu, kita membutuhkan 3 komponen untuk mengajar mesin untuk bisa belajar.
 
-### Data
+#### Data
 
 Kita ingin mesin mendeteksi spam? Maka carilah pesan atau email yang berisi spam. Kita ingin mesin bisa meramalkan harga saham? Maka carilah data harga saham sebanyak-banyaknya. Kita ingin mencari pola pengguna internet? Maka kumpulkan data aktivitas mereka di Facebook (eh Mark Zuckerberg, jangan terus mengumpulkan data kita terus dong!). Semakin banyak variasi dari data kita maka semakin baik hasil peramalannya. Sebagai patokan, puluhan ribu baris data adalah syarat minimum bagi yang menginginkan peramalan yang baik.
 
 [![](https://i.vas3k.ru/7sg.jpg)](https://i.vas3k.ru/7sg.jpg)
 
-Maka ada dua cara utama untuk mendapatkan data: manual dan otomatis. Data yang dikumpulkan secara manual akan memiliki kesalahan yang lebih sedikit akan tetapi akan membutuhkan waktu yang lebih banyak untuk mengumpulkannya sehingga membuat biayanya secara umum lebih mahal.
+Maka ada dua cara utama untuk mendapatkan data: manual dan otomatis. Data yang dikumpulkan secara manual akan memiliki kesalahan yang lebih sedikit akan tetapi akan membutuhkan waktu yang lebih banyak untuk mengumpulkannya sehingga membuat biayanya secara umum lebih mahal.  
 Pengumpulan data secara otomatis itu secara umum lebih murah, yaitu kita cukup mengumpulkan segala apapun yang kamu dapat kita temukan dan berharap itu data yang kita kumpulkan itu adalah yang terbaik.
 
-Orang pintar seperti misalnya yang bekerja di Google bisa memberdayakan konsumen mereka sendiri untuk memberikan label data bagi mereka secara gratis. Anda ingat ‘ReCaptcha’? Itu loh yang kadang memaksa kita untuk memilih mana gambar lampu lalu lintas, mana gambar mobil dll.? Nah, itulah adalah yang mereka lakukan pada kita. Kita menjadi buruh yang gratis! Keren kan?
+Orang pintar seperti misalnya yang bekerja di Google bisa memberdayakan konsumen mereka sendiri untuk memberikan label data bagi mereka secara gratis. Anda ingat ‘ReCaptcha’? Itu loh yang kadang memaksa kita untuk memilih mana gambar lampu lalu lintas, mana gambar mobil dll.? Nah, itulah adalah yang mereka lakukan pada kita. Kita menjadi buruh yang gratis! Keren kan?  
 Pada dasarnya untuk mengumpulkan data yang bagus (biasanya disebut sebagai dataset) itu sangat sulit. Maka mudah kita pahami, mengapa kita lebih banyak menemukan algoritme atau kode program untuk pembelajaran mesin, tetapi jarang menemukan dataset-nya..
 
-### Fitur
+#### Fitur
 
 Atau dikenal juga dengan istilah parameter atau variabel. Fitur dapat berbentuk jenis kelamin pengguna, harga saham, atau frekuensi kata di dalam sebuah teks. Dengan kata lain, fitur adalah faktor-faktor yang perlu dilihat dan diperhatikan oleh mesin.
 
 Saat data disimpan dalam tabel, fitur dapat dengan mudah diletakkan sebagai nama kolom. Akan tetapi, bagaimana jika kita memiliki koleksi dataset gambar kucing sebesar 100 GB? Kita tidak dapat secara sembrono menggunakan setiap pixel sebagai sebuah fitur. Itu mengapa memilih fitur yang tepat biasanya membutuhkan waktu yang lebih panjang daripada semua waktu yang dibutuhkan dalam berbagai tahapan dari pembelajaran mesin. Hal tersebut juga merupakan sumber kesalahan yang paling utama. Manusia itu selalu subjektif, mereka memilih fitur-fitur yang mereka sukai atau yang mereka anggap penting.
 
-### Algoritme
+#### Algoritme
 
 Ini adalah bagian yang paling jelas. Setiap masalah dapat diselesaikan dengan cara yang berbeda. Metode yang kita pilih akan berdampak kepada presisi, unjuk kerja, dan ukuran dari model (algoritme) yang akhirnya kita pakai. Akan tetapi ada ada hal yang penting untuk diperhatikan: jika data kita itu jelek, maka algoritme yang terbaik sekalipun tidak akan menolong. Hal itu disebut sebagai "sampah yang masuk - sampah yang keluar" (garbage in - garbage out). Jadi jangan terlalu memberikan perhatian yang yang terlalu besar kepada persentase akurasi, akan tetapi usahakan untuk mendapatkan data yang lebih banyak terlebih dahulu.
 
@@ -123,19 +123,19 @@ Clearly, the machine will learn faster with a teacher, so it's more commonly use
 
 _"Splits objects based at one of the attributes known beforehand. Separate socks by based on color, documents based on language, music by genre"_
 
-Today used for:
-–Spam filtering
-–Language detection
-–A search of similar documents
-–Sentiment analysis
-–Recognition of handwritten characters and numbers
+Today used for:  
+–Spam filtering  
+–Language detection  
+–A search of similar documents  
+–Sentiment analysis  
+–Recognition of handwritten characters and numbers  
 –Fraud detection
 
 Popular algorithms: [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree_learning), [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression), [K-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
 From here onward you can comment with additional information for these sections. Feel free to write your examples of tasks. Everything is written here based on my own subjective experience.
 
-Machine learning is about classifying things, mostly. The machine here is like a baby learning to sort toys: here's a robot, here's a car, here's a robo-car... Oh, wait. Error! Error!
+Machine learning is about classifying things, mostly. The machine here is like a baby learning to sort toys: here's a robot, here's a car, here's a robo-car… Oh, wait. Error! Error!
 
 In classification, you always need a teacher. The data should be labeled with features so the machine could assign the classes based on them. Everything could be classified—users based on interests (as algorithmic feeds do), articles based on language and topic (that's important for search engines), music based on genre (Spotify playlists), and even your emails.
 
@@ -492,7 +492,7 @@ Differences of deep learning from classical neural networks were in new methods 
 
 I'll tell about two main kinds nowadays.
 
-### [Convolutional Neural Networks (CNN)](https://vas3k.com/blog/machine_learning/#scroll160)
+#### [Convolutional Neural Networks (CNN)](https://vas3k.com/blog/machine_learning/#scroll160)
 
 Convolutional neural networks are all the rage right now. They are used to search for objects on photos and in videos, face recognition, style transfer, generating and enhancing images, creating effects like slow-mo and improving image quality. Nowadays CNNs are used in all the cases that involve pictures and videos. Even in your iPhone several of these networks are going through your nudes to detect objects in those. If there _is something to detect_, heh.
 
@@ -530,7 +530,7 @@ For this I even have a handy unfunny joke:
 
 > Give your neural net a fish and it will be able to detect fish for the rest of its life. Give your neural net a fishing rod and it will be able to detect fishing rods for the rest of its life…
 
-### [Recurrent Neural Networks (RNN)](https://vas3k.com/blog/machine_learning/#scroll170)
+#### [Recurrent Neural Networks (RNN)](https://vas3k.com/blog/machine_learning/#scroll170)
 
 The second most popular architecture today. Recurrent networks gave us useful things like neural machine translation ([here is my post about it](https://vas3k.com/blog/machine_translation/)), speech recognition and voice synthesis in smart assistants. RNNs are the best for sequential data like voice, text or music.
 
