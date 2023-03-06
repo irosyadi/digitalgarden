@@ -3,11 +3,11 @@
 ---
 
 
-# How to Read Research Paper
+## How to Read Research Paper
 
-## Tips
+### Tips
 
-### Simple Steps
+#### Simple Steps
 
 1. First steps: skip
     1. Read title and abstract
@@ -22,13 +22,13 @@
     1. Archive it and write bibliographic record
     2. Write your comment or review.
 
-### Three-Pass Approach
+#### Three-Pass Approach
 
 - The first pass gives you a general idea about the paper.
 - The second pass lets you grasp the papers content, but not its details.
 - The third pass helps you understand the paper in depth.
 
-#### First Pass (5-10 minutes)
+##### First Pass (5-10 minutes)
 
 **What to do:**  
 The first pass is a quick scan to get a bird's-eye view of the paper. You can also decide whether you need to do any more passes.  
@@ -50,7 +50,7 @@ At the end of the first pass, you should be able to answer the five Cs:
 **Next steps:**  
 Using this information, you may choose not to read further. This could be because the paper (a) doesn't interest you, or (b) you don't know enough about the area to understand the paper, or (c) that the authors make invalid assumptions.  
 
-#### The second pass (1 hour)
+##### The second pass (1 hour)
 
 **What to do:**  
 In the second pass, read the paper with greater care, but ignore details such as proofs. Write the key points, or to make comments, as you read.  
@@ -65,7 +65,7 @@ Sometimes you wont understand a paper even at the end of the second pass, becaus
 **Next steps:**  
 You can now choose to: (a) set the paper aside, hoping you don't need to understand the material, (b) return to the paper later, perhaps after reading background material or (c) persevere and go on to the third pass.
 
-#### The third pass (1-5 hours)
+##### The third pass (1-5 hours)
 
 **What to do:**  
 To fully understand a paper, particularly if you are reviewer. The key to the third pass is to attempt to virtually re-implement the paper: that is, making the same assumptions as the authors, re-create the work. By comparing this re-creation with the actual paper, you can easily identify not only a paper's innovations, but  
@@ -78,11 +78,11 @@ also its hidden failings and assumptions.
 **Goal of the pass:**  
 At the end of this pass, you should (a) be able to reconstruct the entire structure of the paper from memory, as well as (b) be able to identify its strong and weak points. In particular, you should (c) be able to pinpoint implicit assumptions, missing citations to relevant work, and potential issues with experimental or analytical techniques.
 
-#### Three Passes Diagram
+##### Three Passes Diagram
 
 ![](https://repositorioaberto.uab.pt/bitstream/10400.2/11312/1/HOW%20TO%20READ%20A%20PAPER%20V3.drawio.png)
 
-### Writing the Review
+#### Writing the Review
 
 - After the second pass:
     - Summarize the paper in one or two sentences
@@ -91,7 +91,7 @@ At the end of this pass, you should (a) be able to reconstruct the entire struct
     - Any limitations or extensions you see for the ideas in the paper.
     - Your opinion of the paper; primarily, the quality of the ideas and its potential impact.
 
-#### How to write the review
+##### How to write the review
 
 - Low-level notes
     - restate unclear points in your own words
@@ -106,7 +106,7 @@ At the end of this pass, you should (a) be able to reconstruct the entire struct
     - Distill the paper down: summarize the things that interested you, contrast with other papers, and record your own questions and ideas for future work.
     - At a minimum, you should re-explain the ideas in your own words: produce some text that is aimed at your future self. You should be able to reread this later and quickly reconstruct your understanding of the paper.
 
-## Resource
+### Resource
 
 - [How to Read a Technical Paper](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 - [How to Read a Paper](http://www.sigcomm.org/sites/default/files/ccr/papers/2007/July/1273445-1273458.pdf)
