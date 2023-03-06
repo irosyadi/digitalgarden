@@ -3,9 +3,9 @@
 ---
 
 
-# Why Blogging
+## Why Blogging
 
-Why am I blogging?
+Why am I blogging?  
 There are some reason why I am blogging and make them public:
 
 - Solidify my knowledge in a given topic. The best way to know that you are really know is by writing it or by teaching it.
