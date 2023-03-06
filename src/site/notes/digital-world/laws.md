@@ -3,9 +3,9 @@
 ---
 
 
-# Interesting Laws
+## Interesting Laws
 
-## Job Laws
+### Job Laws
 
 > "When a measure becomes a target, it ceases to be a good measure."
 >
