@@ -113,7 +113,7 @@
         - Elaboration
         - Emphasis
 
-Example of CBL [National Center for Case Study Teaching in Science (NCCSTS)](https://sciencecases.lib.buffalo.edu/)  
+Example of CBL [[NCCSTS)](https://sciencecases.lib.buffalo.edu/\|National Center for Case Study Teaching in Science (NCCSTS)]]  
 [Case-based learning - EduTech Wiki](https://edutechwiki.unige.ch/en/Case-based_learning)  
 [Case-Based Teaching | MGH Institute of Health Professions](https://www.mghihp.edu/faculty-staff-faculty-compass-teaching/case-based-teaching)
 
@@ -127,4 +127,4 @@ Example of CBL [National Center for Case Study Teaching in Science (NCCSTS)](htt
 
 #### Reference
 
-- [CBL and PBL](https://poorvucenter.yale.edu/strategic-resources-digital-publications/strategies-teaching/case-based-learning#:~:text=Case-based%20learning%20(CBL),cognition%20(see%20Bloom's%20Taxonomy).&text=CBL%20has%20several%20defining%20characteristics,and%20efficient%20self-guided%20learning.)
+- [[https://poorvucenter.yale.edu/strategic-resources-digital-publications/strategies-teaching/case-based-learning#:~:text=Case-based learning (CBL\|https://poorvucenter.yale.edu/strategic-resources-digital-publications/strategies-teaching/case-based-learning#:~:text=Case-based learning (CBL]],cognition%20(see%20Bloom's%20Taxonomy).&text=CBL%20has%20several%20defining%20characteristics,and%20efficient%20self-guided%20learning.)
