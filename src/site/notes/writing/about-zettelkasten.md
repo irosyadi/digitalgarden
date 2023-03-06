@@ -3,11 +3,11 @@
 ---
 
 
-# Zettelkasten
+## Zettelkasten
 
 The zettelkasten (German: "slip box") is a knowledge management and note-taking method used in research and study.
 
-## Reading about Zettelkasten
+### Reading about Zettelkasten
 
 - [Note from Emvi](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)
 - [Clarestory-1](https://clerestory.netlify.app/zk/) [Clarestory-2 Follow Up](https://clerestory.netlify.app/zk1/)
@@ -21,15 +21,15 @@ The zettelkasten (German: "slip box") is a knowledge management and note-taking 
 - [Living with Zettelkasten](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html)
 - [My Personal Knowledge Management System](https://mobydiction.ca/blog/my-personal-knowledge-management-system)
 
-## Tools
+### Tools
 
-### Zettelkasten Software Comparison
+#### Zettelkasten Software Comparison
 
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
 - [Mac Only](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0)
 - [Artificial Brain Networks](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
 
-### The Zettelkasten / Slip-box
+#### The Zettelkasten / Slip-box
 
 - [ZKN3](https://zettelkasten.danielluedecke.de/en/) by Daniel Lüdecke
 - [Zettlr](https://zettlr.com/)
@@ -42,25 +42,25 @@ The zettelkasten (German: "slip box") is a knowledge management and note-taking 
 - [org-roam](https://org-roam.readthedocs.io/en/master/)
 - [Neuron](https://www.srid.ca/5b963b1c.html) [Neuron](https://neuron.zettel.page/)
 
-### The Reference Manager
+#### The Reference Manager
 
 - [Zotero](https://www.zotero.org/)
 - [Mendeley](https://www.mendeley.com/)
 - [Citavi](https://www.citavi.com/).
 
-### The Editor
+#### The Editor
 
 - LibreOffice and Word (work well with Zotero)
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview).
 
 [Source](https://takesmartnotes.com/tools/)
 
-### Alternative App
+#### Alternative App
 
 - [Supernotes](https://supernotes.app/)
 - [Emvi](https://emvi.com/)
 
-## Link about Zettelkasten
+### Link about Zettelkasten
 
 - [Slip Box](https://blog.viktomas.com/posts/slip-box/)
 - [Note Taking Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/)
@@ -73,7 +73,7 @@ The zettelkasten (German: "slip box") is a knowledge management and note-taking 
 - [Zettlr What is Zettelkasten](https://www.zettlr.com/post/what-is-a-zettelkasten)
 - [Thinktool](https://thinktool.io/blog/zettelkasten-principles.html)
 
-## Notes about Zettelkasten
+### Notes about Zettelkasten
 
 - Zettelkasten-like approaches are useful when you're trying to _synthesize_ knowledge into a framework/perspective, sometimes as a way to find and contextualize new ideas. If one doesn't care about that, and ones notes already have a well-defined taxonomy/structure then the linking feature of Zettelkasten is not particularly useful.
 - What works very well is to use Zettelkasten as the next step after taking notes from reading book, blog posts, and articles to collect your personal insights. Probably also from movies, podcasts, whatever.
@@ -82,7 +82,7 @@ The zettelkasten (German: "slip box") is a knowledge management and note-taking 
 - Going down a wikipedia-style rabbit hole of my own notes is cool, like I'm exploring my own brain. Sometimes I completely forget how something works, and when I look up the note I took I just have to read a few of my own words to immediately remember it all.
 - I will say though that progress actually feels pretty slow compared to my usual strategy of just reading through books and articles once or twice, and then web searching whenever I forget something.
 - As far as I can tell, both in studies and in personal experience, the fiddly details of your note-taking schemes don't matter. The only thing that matters is attempting to integrate the information into a cohesive whole, which takes intentional thought.
-- With linear notes, there's a failure mode where links that should be made aren't; you can even walk around believing outright contradictions without noticing. But with a web, there's an equally bad failure mode where your knowledge gets diffuse and unstructured (instead of "X causes Y if Z", you get "X, Y, and Z are related. But... was Z the thing that caused X? Wait, but then what was Y for?").
+- With linear notes, there's a failure mode where links that should be made aren't; you can even walk around believing outright contradictions without noticing. But with a web, there's an equally bad failure mode where your knowledge gets diffuse and unstructured (instead of "X causes Y if Z", you get "X, Y, and Z are related. But… was Z the thing that caused X? Wait, but then what was Y for?").
 - Both of these reflect a failure to aggregate and chunk the information into hard tools, but no productivity system can magically fix that; it always takes time.
 - This looks interesting, but one potential problem with this method is that you start treating the number of notes or the size of the graph as a success metric. The author even notes how it is 'pleasing' to see their note graph grow in size. This could be a perverse incentive.
 - I think your proposed system captures the important part of the knowledge intake, ie two levels of abstraction (writing a source note, and then connecting the new knowledge from source note to (or just dumping it in) some existing node.)
@@ -103,14 +103,14 @@ The zettelkasten (German: "slip box") is a knowledge management and note-taking 
   1. Read/listen/absorb
   2. Write down ideas it creates while you're absorbing
   3. Wait
-  4. Create
+  4. Create  
 Your mind (or at least mine) finds connections you aren't even aware of and when the time comes, when the right prompt sparks, there it is. The knowledge is ready to be used.
 - Zettelkasten is exactly what you wrote here, with one addition. It not only offloads querying for detail (i.e. search) to the machine, it also offloads some connection-making. Search and lookup is internet-as-extended-memory, links and backlinks are internet-as-serendipitous-thought.
 - The part about "just write it down" is the most important. Connecting information as you go can add value to the knowledge base, but writing down everything that's important is the first step and the tool you use should support that. I think the book keeping part is more of a personal thing and some people feel that they need to do it and others do not. I for myself "separate" notes into problem domains (when I think about them I have a broader topic in mind) and connect all the notes that belong to the same topic when I see fit. That greatly reduces the book keeping part and I can add connections as I go.
 - I would say if your workflow is not research-centric where you only implement software, these kinds of methods are not necessary. Only simple note-taking would suffice to ease your brain.
 - On the contrary, if you are reading papers and doing research, taking notes in a meaningful way is more helpful than you would realize. The human brain tends to skip information while reading and you only realize you didn't actually understand that part when you try to write it yourself. The note-taking part doesn't actually take that much brain resources. I am not a native English speaker but I am taking my notes in English. While taking my notes I don't care about grammar or anything, I just read and write what I understood. When I finish the paper and I am comfortable with the topic, I return to my notes, fix grammars and, link them with my other notes. For example, sometimes I come up with a research idea, I make a note about it. In the future, while reading a paper, I realize some of the techniques that are described in the paper might be beneficial to that idea so I link them together.
 - In conclusion, it really depends on your area of work whether to take regular notes or Zettelkasten notes. Forcing your workflow to these methods might hurt your productivity but if you are a researcher I can say, it will be beneficial.
-- Normal notes are fighting complexity by creating smaller and smaller categories of notes
+- Normal notes are fighting complexity by creating smaller and smaller categories of notes  
 Example: splitting "engineering notes" to "software notes" and "technical writing notes", and then "software notes" to "java notes" and "design notes". And this way the notes get deeper and deeper in your notebook and you stop interacting with them. This described well my personal experience. Zettelkasten fights this complexity by much more up-front work when adding and linking note, instead of a tree structure, you have a network.
 - Most of the time, it’s more be beneficial to file notes according to the situation in which they’ll be useful rather than where they came from: If you’re going to have a tree structure, the original sources should be out at the leaves as external references rather than the root. This manifests in many forms from lots of different people giving advice:
   - In Getting Things Done, Allen spends a lot of time on the importance of organizing your todo lists by where you’ll be able to do the actions.
@@ -129,11 +129,11 @@ Example: splitting "engineering notes" to "software notes" and "technical writin
     - If we dont have time (or think it is important at that moment) then what solves the problem for us is not a knowledge base, but search.
 - There are problems with search: you have to know to search for something, and you have to know how to search for it. In some cases this is an issue, in some it isn't. I have had many times over the years where I reviewed my notes and reminded myself of things I had completely forgotten. Search is useless in that case. But in any event, there's no conflict between a knowledge base and search. They are different things and you can search a knowledge base.
 - [Zettl practice] I can stream thoughts into a lightweight inbox without having to do the organizing upfront. I then have derived categories from the main stream of thoughts. If the thought is a task, I further process these into categories. I have recurring tasks and events that I handle on a "Time" page that is effectively a calendar, and I have one-off tasks that go into a Kanban style backlog. What I really got from Zettlekasten is that trying to establish your system upfront is a mistake. Things inevitably leak through your categories and then you lose faith in your system. By just having a running stream of thoughts and then relating them after the fact and deriving categories afterward, you get the benefits of organization without a lot of its failure modes.
-- Your template misses backlinks. Zk notes have five elements:
-  5. An id (I presume it is [yyyymmddhhmmss.md](https://yyyymmddhhmmss.md) as filename for you)
-  6. Tags
-  7. Backlinks (in the form of \[\[backlink\]\] in most zk software tools such as zettlr/obsidian/thearchive etc;)
-  8. Source or reference (checked)
+- Your template misses backlinks. Zk notes have five elements:  
+  5. An id (I presume it is [yyyymmddhhmmss.md](https://yyyymmddhhmmss.md) as filename for you)  
+  6. Tags  
+  7. Backlinks (in the form of \[\[backlink\]\] in most zk software tools such as zettlr/obsidian/thearchive etc;)  
+  8. Source or reference (checked)  
   9. Content (I suppose it is your # Notes)
 - Also all zettels are atomic, so you will deilberately limit yourself to one topic idea, ideally with a question or something (I suppose that is why you have # Title).
 - Here's my rather brief summary of the process:
@@ -146,9 +146,9 @@ Example: splitting "engineering notes" to "software notes" and "technical writin
     - You can create index notes that help you find your way around.
     - Part of the process is to help your understanding by writing. With a well maintained slip box, you'll never be starting from a blank sheet. You decide what insight/question/knowledge you want to explore, and pull together the notes that give you the body of research to get you started. You shouldn't need to start a new blog post by researching, that happens prior by taking smart notes as you naturally read what you're interested in.
 
-### Alternative to Zettelkasten
+#### Alternative to Zettelkasten
 
-#### PARA (Second Brain)
+##### PARA (Second Brain)
 
 - Link:
   - [Forte Labs](https://fortelabs.co/blog/basboverview/)
@@ -160,13 +160,13 @@ Example: splitting "engineering notes" to "software notes" and "technical writin
   - P.A.R.A. is great for those who don’t have the time (or willpower) to force themselves to write down notes they may never use. Instead it’s Just-in-Time philosophy saves many hours and lets you be more productive. Tiago has designed P.A.R.A. to work with most productivity apps, but the process is optimized for his app of choice: Evernote.
   - All in all, I’m finding P.A.R.A. pretty useful so far. It has yet to pass the ultimate test of any knowledge management system: Will I still be using it three months from now? (ask me after July). I’m already noticing productivity boosts by using the PARA method to store notes for all my projects, so prospects are looking good
 
-#### Bliki
+##### Bliki
 
 - [Bliki](https://martinfowler.com/bliki/WhatIsaBliki.html)
 
-#### Spaced Repetition
+##### Spaced Repetition
 
-#### Combination Method
+##### Combination Method
 
 - Zettelkasten
   - Unique IDs - facilitates linking - can use beyond your note-taking system if you use it on other files and documents and use a file explorer
