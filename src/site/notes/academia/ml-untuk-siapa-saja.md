@@ -155,7 +155,7 @@ That's how a tree is made. The higher the branch—the broader the question. Any
 
 Decision trees are widely used in high responsibility spheres: diagnostics, medicine, and finances.
 
-The two most popular algorithms for forming the trees are [CART](https://en.wikipedia.org/wiki/Predictive_analytics#Classification_and_regression_trees_.28CART.29) and [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm).
+The two most popular algorithms for forming the trees are [[https://en.wikipedia.org/wiki/Predictive_analytics#Classification_and_regression_trees_.28CART.29\|https://en.wikipedia.org/wiki/Predictive_analytics#Classification_and_regression_trees_.28CART.29]] and [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm).
 
 Pure decision trees are rarely used today. However, they often set the basis for large systems, and their ensembles even work better than neural networks. We'll talk about that later.
 
@@ -303,7 +303,7 @@ Nowadays is used:
 * To place the products on the shelves
 * To analyze web surfing patterns
 
-Popular algorithms: [Apriori, Euclat, FP-growth](https://en.wikipedia.org/wiki/Association_rule_learning#Algorithms)
+Popular algorithms: [[https://en.wikipedia.org/wiki/Association_rule_learning#Algorithms\|https://en.wikipedia.org/wiki/Association_rule_learning#Algorithms]]
 
 This includes all the methods to analyze shopping carts, automate marketing strategy, and other event-related tasks. When you have a sequence of something and want to find patterns in it—try these thingys.
 
@@ -492,7 +492,7 @@ Differences of deep learning from classical neural networks were in new methods 
 
 I'll tell about two main kinds nowadays.
 
-#### [Convolutional Neural Networks (CNN)](https://vas3k.com/blog/machine_learning/#scroll160)
+#### [[https://vas3k.com/blog/machine_learning/#scroll160\|https://vas3k.com/blog/machine_learning/#scroll160]]
 
 Convolutional neural networks are all the rage right now. They are used to search for objects on photos and in videos, face recognition, style transfer, generating and enhancing images, creating effects like slow-mo and improving image quality. Nowadays CNNs are used in all the cases that involve pictures and videos. Even in your iPhone several of these networks are going through your nudes to detect objects in those. If there _is something to detect_, heh.
 
@@ -530,7 +530,7 @@ For this I even have a handy unfunny joke:
 
 > Give your neural net a fish and it will be able to detect fish for the rest of its life. Give your neural net a fishing rod and it will be able to detect fishing rods for the rest of its life…
 
-#### [Recurrent Neural Networks (RNN)](https://vas3k.com/blog/machine_learning/#scroll170)
+#### [[https://vas3k.com/blog/machine_learning/#scroll170\|https://vas3k.com/blog/machine_learning/#scroll170]]
 
 The second most popular architecture today. Recurrent networks gave us useful things like neural machine translation ([here is my post about it](https://vas3k.com/blog/machine_translation/)), speech recognition and voice synthesis in smart assistants. RNNs are the best for sequential data like voice, text or music.
 
