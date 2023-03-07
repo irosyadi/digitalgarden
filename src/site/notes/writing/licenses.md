@@ -14,7 +14,7 @@
 - [Freedom Defined](https://freedomdefined.org/Licenses)
 - [Creative Commons FAQ](https://creativecommons.org/faq/)
 - [Adapter License](https://discourse.col.org/t/if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-license-s-can-i-use/160)
-- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html#FreeDocumentationLicenses)
+- [[https://www.gnu.org/licenses/license-list.html#FreeDocumentationLicenses\|https://www.gnu.org/licenses/license-list.html#FreeDocumentationLicenses]]
 - [Unlicense](https://unlicense.org/)
 
 |    License    | Attribution |  Derivative  | Commercial | Free-Open |
