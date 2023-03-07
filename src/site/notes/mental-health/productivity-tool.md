@@ -18,7 +18,7 @@
 ### OKR
 
 - [re:Work - Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
-- [Setting up personal OKR - hack(pravj)](https://hackpravj.com/blog/personal-okr-2021-plan/)
+- [[pravj)](https://hackpravj.com/blog/personal-okr-2021-plan/\|Setting up personal OKR - hack(pravj)]]
 
 ### Productivity
 
