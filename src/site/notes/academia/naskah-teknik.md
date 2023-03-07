@@ -8,8 +8,8 @@
 Panduan penulisan naskah ilmiah di bidang Teknik Elektro.
 
 Link terkait:  
-🔗 [Istilah Baku di Bidang Teknik Elektro](academia/kbbi-teknik.md)  
-🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](academia/puebi-teknik.md)
+🔗 [[academia/kbbi-teknik\|Istilah Baku di Bidang Teknik Elektro]]  
+🔗 [[academia/puebi-teknik\|Pedomaan Ejaan Naskah Bidang Teknik Elektro]]
 
 ### Pedoman Dasar Penulisan Naskah Ilmiah
 
