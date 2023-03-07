@@ -7,7 +7,7 @@
 
 - [How to Write in Plain English](https://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 - [Writing for gov.uk in Plain English](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
-- [gov.uk style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
+- [[https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid\|https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid]]
 - [why is this important](https://digital.nhs.uk/blog/transformation-blog/2019/pee-and-poo-and-the-language-of-health)
 - [US Gov Guidance](https://plainlanguage.gov/)
 - [Hemingway App](https://www.hemingwayapp.com/) for helping writing in plain english. Also [Language Tool](https://languagetool.org/)
@@ -18,7 +18,7 @@
 
 - [writing one sentence per line | Derek Sivers](https://sive.rs/1s)
 - [Semantic Linefeeds](https://rhodesmill.org/brandon/2012/one-sentence-per-line/)
-- [2015/05/13: Better writing, editing, and thinking through the power of line breaks Copy | Of (im)possible interest](https://pdodds.w3.uvm.edu/writings/2015-05-13better-writing-editing-thinking-with-line-breaks/)
+- [[im)possible interest](https://pdodds.w3.uvm.edu/writings/2015-05-13better-writing-editing-thinking-with-line-breaks/\|2015/05/13: Better writing, editing, and thinking through the power of line breaks Copy ]]
 - [Several Short Sentences About Writing - by Verlyn Klinkenborg | Derek Sivers](https://sive.rs/book/ShortSentences)
 - [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
 - [The Best Bit of Advice on Writing I've Received by @ttunguz](https://tomtunguz.com/writing-separate-lines/)
