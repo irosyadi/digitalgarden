@@ -7,7 +7,7 @@
 
 ### Thinking Strategy
 
-* [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained) - Farnam Street](https://fs.blog/mental-models/)
+* [[~100 Models Explained) - Farnam Street](https://fs.blog/mental-models/\|Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained) - Farnam Street]]
 * [Daniel Dennett's Most Useful Critical Thinking Tools - Farnam Street](https://fs.blog/dan-dannetts-thinking-tools/)
 * [Accelerated Learning: Learn Faster and Remember More - Farnam Street](https://fs.blog/learning/)
 * [How to Make Smart Decisions Without Getting Lucky - Farnam Street](https://fs.blog/smart-decisions/)
