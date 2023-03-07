@@ -8,8 +8,8 @@
 Pedoman ejaan untuk naskah bidang teknik elektro berdasarkan PUEBI. Pedoman ejaan berikut tidak menyebutkan pedoman ejaan selengkap PUEBI, akan tetapi hanya menyebutkan sebagian yang terkait dengan penulisan naskah bidang teknik elektro. Apa yang disebutkan berikut dituliskan berdasarkan pengalaman membimbing penulisan naskah bidang teknik elektro.
 
 Link terkait:  
-🔗[Penulisan Naskah Ilmiah Bidang Teknik Elektro](academia/naskah-teknik.md)  
-🔗[Istilah Baku di Bidang Teknik Elektro](academia/kbbi-teknik.md)
+🔗[[academia/naskah-teknik\|Penulisan Naskah Ilmiah Bidang Teknik Elektro]]  
+🔗[[academia/kbbi-teknik\|Istilah Baku di Bidang Teknik Elektro]]
 
 ### Ringkasan Ejaan Benar dan Salah
 
@@ -357,7 +357,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Misalnya:
         - Zat kimia tersebut merupakan pencampuran air dan minyak dengan rasio 3:1.
 
-#### [Tanda Hubung (-)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/)
+#### [[-)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/\|Tanda Hubung (-)]]
 
 - Tanda hubung dipakai untuk merangkai kata sebagai berikut.
     - sedengan kata berikutnya yang dimulai dengan huruf kapital. Misalnya:
@@ -390,7 +390,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - papan kunci-plastik
         - kotak-kayu kalimantan
 
-#### [Tanda Pisah (—)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/)
+#### [[—)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/\|Tanda Pisah (—)]]
 
 - Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
     - Misalnya:
