@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/writing-plain-english/","title":"Writing in Plain English","tags":["writing"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/writing-plain-english/","title":"writing-plain-english","tags":["writing"],"noteIcon":""}
 ---
 
 
@@ -18,7 +18,7 @@
 
 - [writing one sentence per line | Derek Sivers](https://sive.rs/1s)
 - [Semantic Linefeeds](https://rhodesmill.org/brandon/2012/one-sentence-per-line/)
-- [[im)possible interest](https://pdodds.w3.uvm.edu/writings/2015-05-13better-writing-editing-thinking-with-line-breaks/\|2015/05/13: Better writing, editing, and thinking through the power of line breaks Copy ]]
+- [[im)possible interest](<https://pdodds.w3.uvm.edu/writings/2015-05-13better-writing-editing-thinking-with-line-breaks/\|2015/05/13:> Better writing, editing, and thinking through the power of line breaks Copy ]]
 - [Several Short Sentences About Writing - by Verlyn Klinkenborg | Derek Sivers](https://sive.rs/book/ShortSentences)
 - [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
 - [The Best Bit of Advice on Writing I've Received by @ttunguz](https://tomtunguz.com/writing-separate-lines/)
