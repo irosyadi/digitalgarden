@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/habit/intermittent-fasting/","title":"Intermittent Fasting","noteIcon":""}
+{"dg-publish":true,"permalink":"/habit/intermittent-fasting/","title":"intermittent-fasting","noteIcon":""}
 ---
 
 
