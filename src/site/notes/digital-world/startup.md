@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-world/startup/","title":"All about Startup","tags":["startup"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-world/startup/","title":"startup","tags":["startup"],"noteIcon":""}
 ---
 
 
