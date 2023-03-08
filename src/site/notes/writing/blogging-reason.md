@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/blogging-reason/","title":"Why Blogging","tags":["blogging","writing"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/blogging-reason/","title":"blogging-reason","tags":["blogging","writing"],"noteIcon":""}
 ---
 
 
