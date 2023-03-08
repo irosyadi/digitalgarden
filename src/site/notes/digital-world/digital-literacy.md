@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-world/digital-literacy/","title":"Digital Literacy","noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-world/digital-literacy/","title":"digital-literacy","noteIcon":""}
 ---
 
 
