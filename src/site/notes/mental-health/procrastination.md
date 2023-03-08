@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health/procrastination/","title":"Procrastination","tags":["procrastination"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mental-health/procrastination/","title":"procrastination","tags":["procrastination"],"noteIcon":""}
 ---
 
 
@@ -20,7 +20,7 @@
 
 ### Self Development
 
-- [[or how I learned to love my monkey mind)–Jakob Greenfeld–Experiments in Entrepreneurship and Learning](https://jakobgreenfeld.com/personal-productivity\|Effortless personal productivity (or how I learned to love my monkey mind)–Jakob Greenfeld–Experiments in Entrepreneurship and Learning]] [[or how I learned to love my monkey mind) \| Hacker News](https://news.ycombinator.com/item?id=29965957]]
+- [[or how I learned to love my monkey mind)–Jakob Greenfeld–Experiments in Entrepreneurship and Learning](<https://jakobgreenfeld.com/personal-productivity\|Effortless> personal productivity (or how I learned to love my monkey mind)–Jakob Greenfeld–Experiments in Entrepreneurship and Learning]] [[or how I learned to love my monkey mind) \| Hacker News](<https://news.ycombinator.com/item?id=29965957]]
 - Step 1: develop meta-awareness of your state of mind.
 - Step 2: pattern-match to identify your mind’s most common modes.
 - Step 3: learn to pick activities that match each mode.
