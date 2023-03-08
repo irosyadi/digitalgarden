@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/quotes/","title":"Interesting Quotes","noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/quotes/","title":"quotes","noteIcon":""}
 ---
 
 
@@ -16,6 +16,8 @@
 ### Academia Quote
 
 >> "Academic politics are so vicious precisely because the stakes are so small."
+
+>
 
 >> - [Sayre's Law](https://en.m.wikipedia.org/wiki/Sayre%27s_law)  
 >> "In any dispute the intensity of feeling is inversely proportional to the value of the issues at stake."
