@@ -58,6 +58,7 @@
 - [The illusion of evidence based medicine | The BMJ](https://www.bmj.com/content/376/bmj.o702)
 
 ### Tech Culture
+
 - [The maze is in the mouse. What ails Google. And how it can turn… | by Praveen Seshadri | Feb, 2023 | Medium](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a)
 	- at some point the problem is no longer that the mouse is in a maze. The problem is that “the maze is in the mouse”.
 	- The way I see it, Google has four core cultural problems. They are all the natural consequences of having a money-printing machine called “Ads” that has kept growing relentlessly every year, hiding all other sins. (1) no mission, (2) no urgency, (3) delusions of exceptionalism, (4) mismanagement.
