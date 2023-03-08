@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/slide/","title":"Slide","tags":["slide","presentation"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/slide/","title":"slide","tags":["slide","presentation"],"noteIcon":""}
 ---
 
 
