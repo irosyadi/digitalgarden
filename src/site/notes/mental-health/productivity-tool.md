@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health/productivity-tool/","title":"Productivity Tools and Tips","noteIcon":""}
+{"dg-publish":true,"permalink":"/mental-health/productivity-tool/","title":"productivity-tool","noteIcon":""}
 ---
 
 
@@ -18,7 +18,7 @@
 ### OKR
 
 - [re:Work - Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
-- [[pravj)](https://hackpravj.com/blog/personal-okr-2021-plan/\|Setting up personal OKR - hack(pravj)]]
+- [[pravj)](<https://hackpravj.com/blog/personal-okr-2021-plan/\|Setting> up personal OKR - hack(pravj)]]
 
 ### Productivity
 
