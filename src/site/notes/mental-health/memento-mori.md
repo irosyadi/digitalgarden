@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health/memento-mori/","title":"Memento Mori Quotes","noteIcon":""}
+{"dg-publish":true,"permalink":"/mental-health/memento-mori/","title":"memento-mori","noteIcon":""}
 ---
 
 
