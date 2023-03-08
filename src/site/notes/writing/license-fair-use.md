@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/license-fair-use/","title":"Fair Use of Licensed Works","tags":["license"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/license-fair-use/","title":"license-fair-use","tags":["license"],"noteIcon":""}
 ---
 
 
