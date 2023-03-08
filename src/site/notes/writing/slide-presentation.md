@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/slide-presentation/","title":"Slide and Presentation Tips","noteIcon":1}
+{"dg-publish":true,"permalink":"/writing/slide-presentation/","title":"slide-presentation","noteIcon":1}
 ---
 
 
