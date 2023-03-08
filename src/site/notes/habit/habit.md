@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/habit/habit/","title":"Habit","noteIcon":""}
+{"dg-publish":true,"permalink":"/habit/habit/","title":"habit","noteIcon":""}
 ---
 
 
@@ -64,5 +64,5 @@
 
 - [A simple way to break a bad habit - Judson Brewer - YouTube](https://www.youtube.com/watch?v=-moW9jvvMr4&list=PL79A8suCuHLCNk_WNP9EuKROeWg5QwPOP&index=16)
 - [The secret to self control - Jonathan Bricker - TEDxRainier - YouTube](https://www.youtube.com/watch?v=tTb3d5cjSFI)
-- [[dopamine detox) - YouTube](https://www.youtube.com/watch?v=9QiE-M1LrZk\|How I Tricked My Brain To Like Doing Hard Things (dopamine detox) - YouTube]]
+- [[dopamine detox) - YouTube](<https://www.youtube.com/watch?v=9QiE-M1LrZk\|How> I Tricked My Brain To Like Doing Hard Things (dopamine detox) - YouTube]]
 - [Tim Urban: Inside the mind of a master procrastinator - TED - YouTube](https://www.youtube.com/watch?v=arj7oStGLkU)
