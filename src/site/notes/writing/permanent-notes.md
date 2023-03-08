@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/permanent-notes/","title":"Permanent Notes","tags":["zettelkasten","learning","notes"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/permanent-notes/","title":"permanent-notes","tags":["zettelkasten","learning","notes"],"noteIcon":""}
 ---
 
 
