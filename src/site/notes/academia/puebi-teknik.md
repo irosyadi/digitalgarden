@@ -357,7 +357,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Misalnya:
         - Zat kimia tersebut merupakan pencampuran air dan minyak dengan rasio 3:1.
 
-#### [[-)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/\|Tanda Hubung (-)]]
+#### [[-)](<https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/\|Tanda> Hubung (-)]]
 
 - Tanda hubung dipakai untuk merangkai kata sebagai berikut.
     - sedengan kata berikutnya yang dimulai dengan huruf kapital. Misalnya:
@@ -390,7 +390,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - papan kunci-plastik
         - kotak-kayu kalimantan
 
-#### [[—)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/\|Tanda Pisah (—)]]
+#### [[—)](<https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/\|Tanda> Pisah (—)]]
 
 - Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
     - Misalnya:
