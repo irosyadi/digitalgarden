@@ -113,7 +113,7 @@
         - Elaboration
         - Emphasis
 
-Example of CBL [[NCCSTS)](https://sciencecases.lib.buffalo.edu/\|National Center for Case Study Teaching in Science (NCCSTS)]]  
+Example of CBL [[NCCSTS)](<https://sciencecases.lib.buffalo.edu/\|National> Center for Case Study Teaching in Science (NCCSTS)]]  
 [Case-based learning - EduTech Wiki](https://edutechwiki.unige.ch/en/Case-based_learning)  
 [Case-Based Teaching | MGH Institute of Health Professions](https://www.mghihp.edu/faculty-staff-faculty-compass-teaching/case-based-teaching)
 
