@@ -111,32 +111,6 @@ This <em>word</em> is italic.
 This <strong>word</strong> is bold.  
 This <del>word</del> is deleted with strikethorouugh.
 
-#### 13.2. Others HTML Code
-
-- didn't work in Gitbook
-
-***markdown***
-
-```md
-<font color=red>red color</font>  
-<mark>highlight</mark>  
-<ins>underline</ins>  
-<small>smaller text</small>  
-H<sub>2</sub>O  
-x<sup>2</sup>+y<sup>2</sup>=0  
-Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
-```
-
-***display***
-
-<font color=red>red color</font>  
-<mark>highlight</mark>  
-<ins>underline</ins>  
-<small>smaller text</small>  
-H<sub>2</sub>O  
-x<sup>2</sup>+y<sup>2</sup>=0  
-Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
-
 ### 14. Horizontal Rules
 
 - didn't work in Gitbook
@@ -340,7 +314,8 @@ Inline equation with two dollar sign: $$
 
 E=mc^2
 
-$$ (worked in Gatsby, Jekyll and Gitbook).
+$$
+ (worked in Gatsby, Jekyll and Gitbook).
 Inline equation with two dollar sign:
 
 #### 23.2. Newline Equation
@@ -356,13 +331,11 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ***display***
 
 Newline equation with two dollar signs.
-
 $$
 
 \sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))
 
 $$
-
 ### 24. Specific HTML Code
 
 - didn't work in Gitbook
@@ -450,33 +423,6 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 ***display***
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
-
-### 26. Admonition Styles
-
-#### 26.1. Admonition with CSS
-
-- CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css>
-- didn't work in Gitbook
-
-***markdown***
-
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.min.css">
-
-<div class="alert alert-success"><strong>🎯 SUCCESS!</strong> <br> Success text. </div>  
-<div class="alert alert-info"><strong>📌 INFO</strong> <br> Info text. </div>  
-<div class="alert alert-warning"><strong>⚠️ WARNING!</strong> <br> Warning text. </div>  
-<div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Success text. </div>  
-```
-
-***display***
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.min.css">
-
-<div class="alert alert-success"><strong>🎯 SUCCESS!</strong> <br> Success text. </div>  
-<div class="alert alert-info"><strong>📌 INFO</strong> <br> Info text. </div>  
-<div class="alert alert-warning"><strong>⚠️ WARNING!</strong> <br> Warning text. </div>  
-<div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Success text. </div>  
 
 ### 27. Footnote
 
