@@ -135,24 +135,6 @@ ___
 
 ***
 
-### 15. Heading ID
-
-- didn't work for Gatsby
-
-***markdown***
-
-```md
-### My Great Heading {#heading-ids}
-
-Link to [Heading IDs](#heading-ids)
-```
-
-***display***
-
-#### My Great Heading {#heading-ids}
-
-Link to [Heading IDs](#heading-ids)
-
 ### 16. Code Fencing and Highlighting
 
 ***markdown***
@@ -336,3 +318,26 @@ $$
 \sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))
 
 $$
+### 27. Footnote
+
+- didn't work in Gitbook
+
+***markdown***
+
+```md
+Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
+
+[^1]: This is the first footnote, in Gitbook, there is no new line between.  
+[^bignote]: Here's another one.  
+[^withcode]: `code` or code in paragraphs  
+```
+
+***display***
+
+Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]. But there is problem with Gitbook for footnote.
+
+[^1]: This is the first footnote, in Gitbook, there some problems.  
+
+[^bignote]: Here's another one.  
+
+[^withcode]: `code` or code in paragraphs  
