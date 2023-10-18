@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/paper-read-howto/","title":"How to Read Research Paper","tags":["paper"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/academia/paper-read-howto/","title":"How to Read Research Paper","tags":["paper"],"created":"2023-03-05T15:48:24.615+07:00","updated":"2023-03-07T07:11:34.301+07:00"}
 ---
 
 
