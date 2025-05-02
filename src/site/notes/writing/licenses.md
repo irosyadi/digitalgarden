@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/licenses/","title":"licenses","tags":["license"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/licenses/","title":"licenses","tags":["license"],"created":"2023-03-04T05:17:42.849+07:00","updated":"2023-03-07T07:02:50.895+07:00"}
 ---
 
 

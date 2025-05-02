@@ -265,7 +265,7 @@ x&sup2; y&sup3; &frac34; &frac14; &times; &divide; &raquo; &#124;
 
 ```
 Inline equation with one dollar sign: $E=mc^2$.  
-Inline equation with two dollar sign: $$E=mc^2$$.
+Inline equation with two dollar sign: $E=mc^2$.
 ```
 
 ***display***
@@ -280,7 +280,7 @@ Inline equation with two dollar sign: $$E=mc^2$$.
 ```
 Newline equation with two dollar signs.
 
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
+$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$
 ```
 
 ***display***

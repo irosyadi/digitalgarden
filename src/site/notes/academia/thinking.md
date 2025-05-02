@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/thinking/","title":"Thinking Methods","noteIcon":""}
+{"dg-publish":true,"permalink":"/academia/thinking/","title":"Thinking Methods","created":"2023-03-04T05:17:43.040+07:00","updated":"2023-03-07T07:14:04.916+07:00"}
 ---
 
 

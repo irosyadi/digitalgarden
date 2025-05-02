@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/license-fair-use/","title":"license-fair-use","tags":["license"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/license-fair-use/","title":"license-fair-use","tags":["license"],"created":"2023-03-04T05:17:42.840+07:00","updated":"2023-03-07T07:02:50.900+07:00"}
 ---
 
 

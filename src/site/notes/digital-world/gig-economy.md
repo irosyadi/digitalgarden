@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-world/gig-economy/","title":"gig-economy","noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-world/gig-economy/","title":"gig-economy","created":"2023-03-04T05:17:42.781+07:00","updated":"2023-03-07T07:02:51.000+07:00"}
 ---
 
 

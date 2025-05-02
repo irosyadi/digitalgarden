@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/habit/nudge-theory/","title":"nudge-theory","tags":["behaviour","habit","management"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/habit/nudge-theory/","title":"nudge-theory","tags":["behaviour","habit","management"],"created":"2023-03-04T05:17:42.900+07:00","updated":"2023-03-07T07:02:50.961+07:00"}
 ---
 
 

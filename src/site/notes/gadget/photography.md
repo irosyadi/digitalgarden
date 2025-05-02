@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gadget/photography/","title":"photography","noteIcon":""}
+{"dg-publish":true,"permalink":"/gadget/photography/","title":"photography","created":"2023-03-04T05:17:42.925+07:00","updated":"2023-03-07T07:02:50.981+07:00"}
 ---
 
 

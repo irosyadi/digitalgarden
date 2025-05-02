@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/tips-essay/","title":"tips-essay","noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/tips-essay/","title":"tips-essay","created":"2023-03-04T05:17:43.049+07:00","updated":"2023-03-07T07:02:50.853+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gadget/vlog-tool/","title":"vlog-tool","noteIcon":""}
+{"dg-publish":true,"permalink":"/gadget/vlog-tool/","title":"vlog-tool","created":"2023-03-04T05:17:43.078+07:00","updated":"2023-03-07T07:02:50.976+07:00"}
 ---
 
 

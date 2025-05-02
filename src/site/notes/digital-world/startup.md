@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-world/startup/","title":"startup","tags":["startup"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-world/startup/","title":"startup","tags":["startup"],"created":"2023-03-04T05:17:43.012+07:00","updated":"2023-03-07T07:02:50.991+07:00"}
 ---
 
 

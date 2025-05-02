@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/mukidi-tekan-akhirat/","title":"mukidi-tekan-akhirat","tags":["joke"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/mukidi-tekan-akhirat/","title":"mukidi-tekan-akhirat","tags":["joke"],"created":"2023-03-04T05:17:42.885+07:00","updated":"2023-03-07T07:02:50.891+07:00"}
 ---
 
 

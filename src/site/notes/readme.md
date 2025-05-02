@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","title":"Hi 👋🏼","tags":["gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/readme/","title":"Hi 👋🏼","tags":["gardenEntry"],"created":"2023-03-04T04:00:20.828+07:00","updated":"2023-03-08T09:47:45.676+07:00"}
 ---
 
 

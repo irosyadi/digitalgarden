@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/license-derivative-work/","title":"license-derivative-work","tags":["license"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing/license-derivative-work/","title":"license-derivative-work","tags":["license"],"created":"2023-03-04T05:17:42.830+07:00","updated":"2023-03-07T07:02:50.905+07:00"}
 ---
 
 

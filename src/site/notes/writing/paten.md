@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/paten/","title":"paten","tags":["license"],"noteIcon":3}
+{"dg-publish":true,"permalink":"/writing/paten/","title":"paten","tags":["license"],"created":"2023-03-04T05:17:42.909+07:00","updated":"2023-03-07T07:02:50.887+07:00"}
 ---
 
 
