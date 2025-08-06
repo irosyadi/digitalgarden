@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/academia/naskah-teknik/","title":"Penulisan Naskah Ilmiah Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.086+07:00","updated":"2025-08-06T07:09:44.091+07:00"}
+{"dg-publish":true,"permalink":"/academia/naskah-teknik/","title":"Penulisan Naskah Ilmiah Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.086+07:00","updated":"2025-08-06T07:21:12.123+07:00"}
 ---
 
- 
+
 ## Penulisan Naskah Ilmiah Bidang Teknik Elektro
 
 Panduan penulisan naskah ilmiah di bidang Teknik Elektro.
 
 Link terkait:  
-🔗 [[academia/kbbi-teknik\|Istilah Baku di Bidang Teknik Elektro]]  
-🔗 [[academia/puebi-teknik\|Pedomaan Ejaan Naskah Bidang Teknik Elektro]]
+🔗 [kbbi-teknik](academia/kbbi-teknik.md)  
+🔗 [puebi-teknik](academia/puebi-teknik.md)]]
 
 ### Pedoman Dasar Penulisan Naskah Ilmiah
 

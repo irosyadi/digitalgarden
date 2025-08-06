@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/active-learning/","title":"Active Learning","created":"2023-03-04T05:17:42.721+07:00","updated":"2023-03-07T07:10:47.064+07:00"}
+{"dg-publish":true,"permalink":"/academia/active-learning/","title":"Active Learning","created":"2023-03-04T05:17:42.721+07:00","updated":"2025-08-06T07:19:12.636+07:00"}
 ---
 
 

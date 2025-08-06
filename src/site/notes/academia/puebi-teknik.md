@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/puebi-teknik/","title":"Pedomaan Ejaan Naskah Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.099+07:00","updated":"2025-08-06T07:10:02.107+07:00"}
+{"dg-publish":true,"permalink":"/academia/puebi-teknik/","title":"Pedomaan Ejaan Naskah Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.099+07:00","updated":"2025-08-06T07:21:33.529+07:00"}
 ---
 
 
@@ -8,8 +8,8 @@
 Pedoman ejaan untuk naskah bidang teknik elektro berdasarkan PUEBI. Pedoman ejaan berikut tidak menyebutkan pedoman ejaan selengkap PUEBI, akan tetapi hanya menyebutkan sebagian yang terkait dengan penulisan naskah bidang teknik elektro. Apa yang disebutkan berikut dituliskan berdasarkan pengalaman membimbing penulisan naskah bidang teknik elektro.
 
 Link terkait:  
-🔗[[academia/naskah-teknik\|Penulisan Naskah Ilmiah Bidang Teknik Elektro]]  
-🔗[[academia/kbbi-teknik\|Istilah Baku di Bidang Teknik Elektro]]
+🔗[Penulisan Naskah Ilmiah Bidang Teknik Elektro](academia/naskah-teknik.md)  
+🔗[kbbi-teknik](academia/kbbi-teknik.md)
 
 ### Ringkasan Ejaan Benar dan Salah
 
@@ -357,7 +357,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
     - Misalnya:
         - Zat kimia tersebut merupakan pencampuran air dan minyak dengan rasio 3:1.
 
-#### [[-)](<https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/\|Tanda> Hubung (-)]]
+#### [[-)](<https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/>\|Tanda> Hubung (-)]]
 
 - Tanda hubung dipakai untuk merangkai kata sebagai berikut.
     - sedengan kata berikutnya yang dimulai dengan huruf kapital. Misalnya:
@@ -390,7 +390,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - papan kunci-plastik
         - kotak-kayu kalimantan
 
-#### [[—)](<https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/\|Tanda> Pisah (—)]]
+#### [[—)](<https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-pisah/>\|Tanda> Pisah (—)]]
 
 - Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
     - Misalnya:

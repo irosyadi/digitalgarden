@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/kbbi-teknik/","title":"Istilah Baku di Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.076+07:00","updated":"2023-03-07T07:11:14.158+07:00"}
+{"dg-publish":true,"permalink":"/academia/kbbi-teknik/","title":"Istilah Baku di Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.076+07:00","updated":"2025-08-06T07:21:56.087+07:00"}
 ---
 
 
@@ -8,8 +8,8 @@
 Istilah baku di bidang teknik elektro berdasar KBBI dan Pedoman Pembentukan Istilah.
 
 Link terkait:  
-🔗 [[academia/naskah-teknik\|Penulisan Naskah Ilmiah Bidang Teknik Elektro]]  
-🔗 [[academia/puebi-teknik\|Pedomaan Ejaan Naskah Bidang Teknik Elektro]]
+🔗 [Penulisan Naskah Ilmiah Bidang Teknik Elektro](academia/naskah-teknik.md)  
+🔗 [puebi-teknik](academia/puebi-teknik.md)
 
 ### Contoh Kata Baku dan Tidak Baku
 

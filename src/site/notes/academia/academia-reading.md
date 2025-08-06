@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/academia-reading/","title":"Interesting Academia Articles","created":"2023-03-04T04:06:11.733+07:00","updated":"2023-03-07T07:10:40.100+07:00"}
+{"dg-publish":true,"permalink":"/academia/academia-reading/","title":"Interesting Academia Articles","created":"2023-03-04T04:06:11.733+07:00","updated":"2025-08-06T07:19:06.874+07:00"}
 ---
 
 
