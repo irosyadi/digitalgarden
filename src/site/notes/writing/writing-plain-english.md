@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/writing-plain-english/","title":"writing-plain-english","tags":["writing"],"created":"2023-03-04T04:11:45.108+07:00","updated":"2023-03-07T07:02:50.844+07:00"}
+{"dg-publish":true,"permalink":"/writing/writing-plain-english/","title":"writing-plain-english","tags":["writing"],"created":"2023-03-04T04:11:45.108+07:00","updated":"2025-08-06T07:16:41.838+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/how-to-live-an-intellectually-rich-life/","title":"How to live an intellectually rich life","tags":["article","summary"],"created":"2025-05-03T00:07:07.901+07:00","updated":"2025-05-03T00:13:24.928+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/how-to-live-an-intellectually-rich-life/","title":"How to live an intellectually rich life","tags":["article","summary"],"created":"2025-05-03T00:07:07.901+07:00","updated":"2025-08-06T07:11:19.365+07:00"}
 ---
 
 - Living an intellectually rich life involves overcoming **Epistemic Anxiety** (discomfort with incomplete knowledge) by seeking truth and engaging with diverse ideas.

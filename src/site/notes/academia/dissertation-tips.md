@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/dissertation-tips/","title":"Dissertation Tips","created":"2023-03-04T04:11:45.064+07:00","updated":"2023-03-07T07:11:06.186+07:00"}
+{"dg-publish":true,"permalink":"/academia/dissertation-tips/","title":"Dissertation Tips","created":"2023-03-04T04:11:45.064+07:00","updated":"2025-08-06T07:09:05.411+07:00"}
 ---
 
 

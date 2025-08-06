@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/presentation-as-story/","title":"presentation-as-story","tags":["presentation"],"created":"2023-03-04T05:17:42.940+07:00","updated":"2023-03-07T07:02:50.873+07:00"}
+{"dg-publish":true,"permalink":"/writing/presentation-as-story/","title":"presentation-as-story","tags":["presentation"],"created":"2023-03-04T05:17:42.940+07:00","updated":"2025-08-06T07:15:43.743+07:00"}
 ---
 
 

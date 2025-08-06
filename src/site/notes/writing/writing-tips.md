@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/writing-tips/","title":"writing-tips","tags":["writing"],"created":"2023-03-04T04:11:45.112+07:00","updated":"2023-03-07T07:02:50.836+07:00"}
+{"dg-publish":true,"permalink":"/writing/writing-tips/","title":"writing-tips","tags":["writing"],"created":"2023-03-04T04:11:45.112+07:00","updated":"2025-08-06T07:16:51.827+07:00"}
 ---
 
 

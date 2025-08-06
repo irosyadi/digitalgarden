@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/blogging-reason/","title":"blogging-reason","tags":["blogging","writing"],"created":"2023-03-04T05:17:42.740+07:00","updated":"2023-03-07T07:02:50.916+07:00"}
+{"dg-publish":true,"permalink":"/writing/blogging-reason/","title":"blogging-reason","tags":["blogging","writing"],"created":"2023-03-04T05:17:42.740+07:00","updated":"2025-08-06T07:14:29.021+07:00"}
 ---
 
 

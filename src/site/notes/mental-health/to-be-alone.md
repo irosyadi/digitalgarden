@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health/to-be-alone/","title":"to-be-alone","tags":["life","psychological"],"created":"2023-03-04T05:17:43.058+07:00","updated":"2023-03-07T07:02:50.937+07:00"}
+{"dg-publish":true,"permalink":"/mental-health/to-be-alone/","title":"to-be-alone","tags":["life","psychological"],"created":"2023-03-04T05:17:43.058+07:00","updated":"2025-08-06T07:13:38.420+07:00"}
 ---
 
 

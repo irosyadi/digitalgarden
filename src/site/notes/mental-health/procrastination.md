@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mental-health/procrastination/","title":"procrastination","tags":["procrastination"],"created":"2023-03-04T05:17:42.951+07:00","updated":"2023-06-23T10:19:39.294+07:00"}
+{"dg-publish":true,"permalink":"/mental-health/procrastination/","title":"procrastination","tags":["procrastination"],"created":"2023-03-04T05:17:42.951+07:00","updated":"2025-08-06T07:13:27.651+07:00"}
 ---
 
 

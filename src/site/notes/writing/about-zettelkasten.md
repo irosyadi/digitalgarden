@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/about-zettelkasten/","title":"about-zettelkasten","tags":["zettelkasten"],"created":"2023-03-04T04:11:45.048+07:00","updated":"2023-03-07T07:02:50.921+07:00"}
+{"dg-publish":true,"permalink":"/writing/about-zettelkasten/","title":"about-zettelkasten","tags":["zettelkasten"],"created":"2023-03-04T04:11:45.048+07:00","updated":"2025-08-06T07:14:23.055+07:00"}
 ---
 
 
