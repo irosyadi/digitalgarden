@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/youtube-summary/jagal-the-act-of-killing/","title":"JAGAL - The Act of Killing","tags":["video","summary"],"created":"2025-05-29T21:50:04.504+07:00","updated":"2025-08-06T06:49:49.216+07:00"}
+{"dg-publish":true,"permalink":"/youtube-summary/jagal-the-act-of-killing/","title":"JAGAL - The Act of Killing","tags":["video","summary"],"created":"2025-05-29T21:50:04.504+07:00","updated":"2025-08-07T06:03:00.930+07:00"}
 ---
 
 

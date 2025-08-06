@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/i-deleted-my-second-brain/","title":"I deleted my second brain","tags":["article","summary"],"created":"2025-06-29T08:10:32.625+07:00","updated":"2025-08-06T06:42:47.461+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/i-deleted-my-second-brain/","title":"I deleted my second brain","tags":["article","summary"],"created":"2025-06-29T08:10:32.625+07:00","updated":"2025-08-07T06:03:06.130+07:00"}
 ---
 
 

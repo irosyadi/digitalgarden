@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/how-to-live-an-intellectually-rich-life-utsavmamoria-substack-com/","title":"How to live an intellectually rich life (utsavmamoria.substack.com)","tags":["article","summary"],"created":"2025-05-03T00:13:24.863+07:00","updated":"2025-05-03T00:14:55.295+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/how-to-live-an-intellectually-rich-life-utsavmamoria-substack-com/","title":"How to live an intellectually rich life (utsavmamoria.substack.com)","tags":["article","summary"],"created":"2025-05-03T00:13:24.863+07:00","updated":"2025-08-07T06:03:06.480+07:00"}
 ---
 
 Users discuss strategies for living an intellectually rich life, often centered around reading:

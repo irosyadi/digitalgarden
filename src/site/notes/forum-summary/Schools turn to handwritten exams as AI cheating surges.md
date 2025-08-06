@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/schools-turn-to-handwritten-exams-as-ai-cheating-surges/","title":"Schools turn to handwritten exams as AI cheating surges","tags":["article","summary"],"created":"2025-07-06T09:19:00.138+07:00","updated":"2025-08-06T06:43:23.860+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/schools-turn-to-handwritten-exams-as-ai-cheating-surges/","title":"Schools turn to handwritten exams as AI cheating surges","tags":["article","summary"],"created":"2025-07-06T09:19:00.138+07:00","updated":"2025-08-07T06:03:05.612+07:00"}
 ---
 
 

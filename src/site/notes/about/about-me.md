@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/about-me/","title":"Imron Rosyadi","tags":["about"],"created":"2023-03-08T09:32:03.967+07:00","updated":"2025-08-06T06:37:12.418+07:00"}
+{"dg-publish":true,"permalink":"/about/about-me/","title":"Imron Rosyadi","tags":["about"],"created":"2023-03-08T09:32:03.967+07:00","updated":"2025-08-07T06:03:11.135+07:00"}
 ---
 
 

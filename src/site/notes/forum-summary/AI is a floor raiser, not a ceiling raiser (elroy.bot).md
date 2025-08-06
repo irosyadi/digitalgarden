@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/ai-is-a-floor-raiser-not-a-ceiling-raiser-elroy-bot/","title":"AI is a floor raiser, not a ceiling raiser (elroy.bot)","tags":["forum","summary"],"created":"2025-08-03T17:02:04.248+07:00","updated":"2025-08-06T06:39:46.030+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/ai-is-a-floor-raiser-not-a-ceiling-raiser-elroy-bot/","title":"AI is a floor raiser, not a ceiling raiser (elroy.bot)","tags":["forum","summary"],"created":"2025-08-03T17:02:04.248+07:00","updated":"2025-08-07T06:03:07.309+07:00"}
 ---
 
 

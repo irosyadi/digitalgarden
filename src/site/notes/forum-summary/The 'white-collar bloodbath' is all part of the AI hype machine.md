@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/the-white-collar-bloodbath-is-all-part-of-the-ai-hype-machine/","title":"The 'white-collar bloodbath' is all part of the AI hype machine","tags":["article","summary"],"created":"2025-05-31T11:31:56.265+07:00","updated":"2025-08-06T06:44:54.073+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/the-white-collar-bloodbath-is-all-part-of-the-ai-hype-machine/","title":"The 'white-collar bloodbath' is all part of the AI hype machine","tags":["article","summary"],"created":"2025-05-31T11:31:56.265+07:00","updated":"2025-08-07T06:03:05.086+07:00"}
 ---
 
 

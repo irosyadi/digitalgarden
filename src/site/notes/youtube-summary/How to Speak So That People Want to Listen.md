@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/youtube-summary/how-to-speak-so-that-people-want-to-listen/","title":"How to Speak So That People Want to Listen | Julian Treasure | TED","tags":["video","summary"],"created":"2025-05-17T07:24:07.822+07:00","updated":"2025-08-06T06:49:24.452+07:00"}
+{"dg-publish":true,"permalink":"/youtube-summary/how-to-speak-so-that-people-want-to-listen/","title":"How to Speak So That People Want to Listen | Julian Treasure | TED","tags":["video","summary"],"created":"2025-05-17T07:24:07.822+07:00","updated":"2025-08-07T06:03:01.987+07:00"}
 ---
 
 

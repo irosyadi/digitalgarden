@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/smart-people-don-t-chase-goals-they-create-limits/","title":"Smart People Don't Chase Goals; They Create Limits","tags":["article","summary"],"created":"2025-06-10T20:28:02.604+07:00","updated":"2025-08-06T07:11:29.812+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/smart-people-don-t-chase-goals-they-create-limits/","title":"Smart People Don't Chase Goals; They Create Limits","tags":["article","summary"],"created":"2025-06-10T20:28:02.604+07:00","updated":"2025-08-07T06:03:08.449+07:00"}
 ---
 
 

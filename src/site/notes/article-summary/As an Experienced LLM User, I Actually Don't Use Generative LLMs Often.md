@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/as-an-experienced-llm-user-i-actually-don-t-use-generative-ll-ms-often/","title":"As an Experienced LLM User, I Actually Don't Use Generative LLMs Often","tags":["article","summary"],"created":"2025-05-06T07:58:11.310+07:00","updated":"2025-07-06T10:56:56.561+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/as-an-experienced-llm-user-i-actually-don-t-use-generative-ll-ms-often/","title":"As an Experienced LLM User, I Actually Don't Use Generative LLMs Often","tags":["article","summary"],"created":"2025-05-06T07:58:11.310+07:00","updated":"2025-08-07T06:03:10.121+07:00"}
 ---
 
 

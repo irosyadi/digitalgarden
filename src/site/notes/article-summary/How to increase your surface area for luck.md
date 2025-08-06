@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/how-to-increase-your-surface-area-for-luck/","title":"How to increase your surface area for luck","tags":["article","summary"],"created":"2025-07-24T04:33:18.952+07:00","updated":"2025-08-06T07:11:16.748+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/how-to-increase-your-surface-area-for-luck/","title":"How to increase your surface area for luck","tags":["article","summary"],"created":"2025-07-24T04:33:18.952+07:00","updated":"2025-08-07T06:03:09.316+07:00"}
 ---
 
 

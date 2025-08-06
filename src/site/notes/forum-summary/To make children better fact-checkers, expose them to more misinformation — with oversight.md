@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/to-make-children-better-fact-checkers-expose-them-to-more-misinformation-with-oversight/","title":"To make children better fact-checkers, expose them to more misinformation — with oversight","tags":["article","summary"],"created":"2025-07-06T09:50:50.164+07:00","updated":"2025-08-06T06:46:32.642+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/to-make-children-better-fact-checkers-expose-them-to-more-misinformation-with-oversight/","title":"To make children better fact-checkers, expose them to more misinformation — with oversight","tags":["article","summary"],"created":"2025-07-06T09:50:50.164+07:00","updated":"2025-08-07T06:03:04.252+07:00"}
 ---
 
 

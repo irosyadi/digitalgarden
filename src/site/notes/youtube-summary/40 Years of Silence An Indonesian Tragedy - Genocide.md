@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/youtube-summary/40-years-of-silence-an-indonesian-tragedy-genocide/","title":"40 Years of Silence: An Indonesian Tragedy - Genocide","tags":["video","summary"],"created":"2025-05-30T04:29:49.854+07:00","updated":"2025-08-06T06:49:18.582+07:00"}
+{"dg-publish":true,"permalink":"/youtube-summary/40-years-of-silence-an-indonesian-tragedy-genocide/","title":"40 Years of Silence: An Indonesian Tragedy - Genocide","tags":["video","summary"],"created":"2025-05-30T04:29:49.854+07:00","updated":"2025-08-07T06:03:02.252+07:00"}
 ---
 
 

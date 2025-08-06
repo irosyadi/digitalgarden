@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/why-facts-don-t-change-minds-in-the-culture-wars-structure-does/","title":"Why Facts Don’t Change Minds in the Culture Wars—Structure Does","tags":["article","summary"],"created":"2025-07-25T11:26:42.636+07:00","updated":"2025-08-06T07:11:38.920+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/why-facts-don-t-change-minds-in-the-culture-wars-structure-does/","title":"Why Facts Don’t Change Minds in the Culture Wars—Structure Does","tags":["article","summary"],"created":"2025-07-25T11:26:42.636+07:00","updated":"2025-08-07T06:03:07.788+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/the-most-valuable-commodity-in-the-world-is-friction/","title":"The Most Valuable Commodity in the World is Friction","tags":["article","summary"],"created":"2025-05-12T06:28:46.708+07:00","updated":"2025-08-06T07:11:30.837+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/the-most-valuable-commodity-in-the-world-is-friction/","title":"The Most Valuable Commodity in the World is Friction","tags":["article","summary"],"created":"2025-05-12T06:28:46.708+07:00","updated":"2025-08-07T06:03:08.286+07:00"}
 ---
 
 

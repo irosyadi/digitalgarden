@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academia/kbbi-teknik/","title":"Istilah Baku di Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.076+07:00","updated":"2025-08-06T07:21:56.087+07:00"}
+{"dg-publish":true,"permalink":"/academia/kbbi-teknik/","title":"Istilah Baku di Bidang Teknik Elektro","tags":["penulisan","teknik"],"created":"2023-03-04T04:11:45.076+07:00","updated":"2025-08-07T06:03:10.970+07:00"}
 ---
 
 

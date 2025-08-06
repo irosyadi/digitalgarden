@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/study-mode/","title":"Study mode","tags":["forum","summary"],"created":"2025-07-30T08:18:32.418+07:00","updated":"2025-08-06T06:44:06.552+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/study-mode/","title":"Study mode","tags":["forum","summary"],"created":"2025-07-30T08:18:32.418+07:00","updated":"2025-08-07T06:03:05.447+07:00"}
 ---
 
 

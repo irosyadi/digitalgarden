@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/a-measure-of-just-how-little-we-know/","title":"What is entropy? A measure of just how little we know (quantamagazine.org)","tags":["forum","summary"],"created":"2025-07-06T11:05:51.950+07:00","updated":"2025-08-06T06:47:50.984+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/a-measure-of-just-how-little-we-know/","title":"What is entropy? A measure of just how little we know (quantamagazine.org)","tags":["forum","summary"],"created":"2025-07-06T11:05:51.950+07:00","updated":"2025-08-07T06:03:07.638+07:00"}
 ---
 
 

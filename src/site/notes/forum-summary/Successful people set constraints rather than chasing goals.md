@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/successful-people-set-constraints-rather-than-chasing-goals/","title":"Successful people set constraints rather than chasing goals","tags":["article","summary"],"created":"2025-06-10T20:29:51.471+07:00","updated":"2025-08-06T06:44:42.061+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/successful-people-set-constraints-rather-than-chasing-goals/","title":"Successful people set constraints rather than chasing goals","tags":["article","summary"],"created":"2025-06-10T20:29:51.471+07:00","updated":"2025-08-07T06:03:05.255+07:00"}
 ---
 
 

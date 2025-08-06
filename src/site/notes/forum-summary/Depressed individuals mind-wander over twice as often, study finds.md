@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/depressed-individuals-mind-wander-over-twice-as-often-study-finds/","title":"Depressed individuals mind-wander over twice as often, study finds","tags":["article","summary"],"created":"2025-07-06T09:39:41.078+07:00","updated":"2025-08-06T06:41:17.692+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/depressed-individuals-mind-wander-over-twice-as-often-study-finds/","title":"Depressed individuals mind-wander over twice as often, study finds","tags":["article","summary"],"created":"2025-07-06T09:39:41.078+07:00","updated":"2025-08-07T06:03:06.983+07:00"}
 ---
 
 
