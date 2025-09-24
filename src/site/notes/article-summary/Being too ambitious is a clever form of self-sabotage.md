@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/being-too-ambitious-is-a-clever-form-of-self-sabotage/","title":"Being too ambitious is a clever form of self-sabotage","tags":["article","summary"],"created":"2025-07-06T10:48:50.009+07:00","updated":"2025-08-07T06:03:09.949+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/being-too-ambitious-is-a-clever-form-of-self-sabotage/","title":"Being too ambitious is a clever form of self-sabotage","tags":["article","summary"]}
 ---
 
 

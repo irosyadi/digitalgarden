@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/dopamine-signals-when-a-fear-can-be-forgotten-picower-mit-edu/","title":"Dopamine signals when a fear can be forgotten (picower.mit.edu)","tags":["article","summary"],"created":"2025-05-03T00:19:56.234+07:00","updated":"2025-08-07T06:03:06.804+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/dopamine-signals-when-a-fear-can-be-forgotten-picower-mit-edu/","title":"Dopamine signals when a fear can be forgotten (picower.mit.edu)","tags":["article","summary"]}
 ---
 
 The main points discussed on the page are:

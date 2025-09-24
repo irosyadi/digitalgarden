@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/troubling-study-shows-politics-can-trump-truth-to-a-surprising-degree-regardless-of-education-or-analytical-ability/","title":"Troubling study shows “politics can trump truth” to a surprising degree, regardless of education or analytical ability","tags":["article","summary"],"created":"2025-07-06T09:37:54.927+07:00","updated":"2025-08-07T06:03:04.420+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/troubling-study-shows-politics-can-trump-truth-to-a-surprising-degree-regardless-of-education-or-analytical-ability/","title":"Troubling study shows “politics can trump truth” to a surprising degree, regardless of education or analytical ability","tags":["article","summary"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/when-humans-see-the-world-as-a-bad-place-our-own-wellbeing-can-suffer/","title":"When humans see the world as a bad place, our own wellbeing can suffer","tags":["article","summary"],"created":"2025-07-06T09:56:20.571+07:00","updated":"2025-08-07T06:03:03.768+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/when-humans-see-the-world-as-a-bad-place-our-own-wellbeing-can-suffer/","title":"When humans see the world as a bad place, our own wellbeing can suffer","tags":["article","summary"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/what-is-entropy/","title":"What is Entropy?","tags":["forum","summary"],"created":"2025-07-06T11:02:25.910+07:00","updated":"2025-08-07T06:03:03.938+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/what-is-entropy/","title":"What is Entropy?","tags":["forum","summary"]}
 ---
 
 

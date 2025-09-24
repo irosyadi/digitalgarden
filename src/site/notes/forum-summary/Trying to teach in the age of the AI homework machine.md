@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/trying-to-teach-in-the-age-of-the-ai-homework-machine/","title":"Trying to teach in the age of the AI homework machine","tags":["article","summary"],"created":"2025-05-28T10:27:42.180+07:00","updated":"2025-08-07T06:03:04.083+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/trying-to-teach-in-the-age-of-the-ai-homework-machine/","title":"Trying to teach in the age of the AI homework machine","tags":["article","summary"]}
 ---
 
 

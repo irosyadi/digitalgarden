@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/the-moat-of-low-status/","title":"The Moat of Low Status (usefulfictions.substack.com)","tags":["article","summary"],"created":"2025-07-06T09:04:09.757+07:00","updated":"2025-08-07T06:03:04.732+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/the-moat-of-low-status/","title":"The Moat of Low Status (usefulfictions.substack.com)","tags":["article","summary"]}
 ---
 
 

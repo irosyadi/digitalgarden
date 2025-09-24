@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/i-d-rather-read-the-prompt/","title":"I'd rather read the prompt","tags":["article","summary"],"created":"2025-05-05T06:28:33.306+07:00","updated":"2025-08-07T06:03:08.799+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/i-d-rather-read-the-prompt/","title":"I'd rather read the prompt","tags":["article","summary"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/i-d-rather-read-the-prompt/","title":"I'd rather read the prompt (claytonwramsey.com)","tags":["article","summary"],"created":"2025-05-05T06:29:24.058+07:00","updated":"2025-08-07T06:03:05.960+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/i-d-rather-read-the-prompt/","title":"I'd rather read the prompt (claytonwramsey.com)","tags":["article","summary"]}
 ---
 
 ## I'd rather read the prompt (claytonwramsey.com)  

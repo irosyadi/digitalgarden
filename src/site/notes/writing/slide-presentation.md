@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/slide-presentation/","title":"slide-presentation","created":"2023-03-04T05:17:43.001+07:00","updated":"2025-08-07T06:03:02.572+07:00"}
+{"dg-publish":true,"permalink":"/writing/slide-presentation/","title":"slide-presentation"}
 ---
 
 

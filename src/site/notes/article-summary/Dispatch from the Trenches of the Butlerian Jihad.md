@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/dispatch-from-the-trenches-of-the-butlerian-jihad/","title":"Dispatch from the Trenches of the Butlerian Jihad","tags":["article","summary"],"created":"2025-05-28T06:44:47.370+07:00","updated":"2025-08-07T06:03:09.795+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/dispatch-from-the-trenches-of-the-butlerian-jihad/","title":"Dispatch from the Trenches of the Butlerian Jihad","tags":["article","summary"]}
 ---
 
 

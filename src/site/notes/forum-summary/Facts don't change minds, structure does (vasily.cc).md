@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/facts-don-t-change-minds-structure-does-vasily-cc/","title":"Facts don't change minds, structure does (vasily.cc)","tags":["forum","summary"],"created":"2025-07-25T11:32:02.084+07:00","updated":"2025-08-07T06:03:06.610+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/facts-don-t-change-minds-structure-does-vasily-cc/","title":"Facts don't change minds, structure does (vasily.cc)","tags":["forum","summary"]}
 ---
 
 

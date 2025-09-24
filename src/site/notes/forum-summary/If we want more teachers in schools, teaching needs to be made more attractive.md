@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/if-we-want-more-teachers-in-schools-teaching-needs-to-be-made-more-attractive/","title":"If we want more teachers in schools, teaching needs to be made more attractive","tags":["article","summary"],"created":"2025-07-06T09:33:07.296+07:00","updated":"2025-08-07T06:03:05.787+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/if-we-want-more-teachers-in-schools-teaching-needs-to-be-made-more-attractive/","title":"If we want more teachers in schools, teaching needs to be made more attractive","tags":["article","summary"]}
 ---
 
 

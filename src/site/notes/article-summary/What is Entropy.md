@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/what-is-entropy/","title":"What is Entropy?","tags":["article","summary"],"created":"2025-05-03T05:54:51.945+07:00","updated":"2025-08-07T06:03:07.971+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/what-is-entropy/","title":"What is Entropy?","tags":["article","summary"]}
 ---
 
 This post explains entropy, primarily defining it as a measure of **uncertainty**. It introduces:

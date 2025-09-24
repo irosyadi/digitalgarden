@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/youtube-summary/the-act-of-killing-director-s-cut/","title":"The Act of Killing (Director’s Cut)","tags":["video","summary"],"created":"2025-05-29T21:47:07.424+07:00","updated":"2025-08-07T06:02:59.428+07:00"}
+{"dg-publish":true,"permalink":"/youtube-summary/the-act-of-killing-director-s-cut/","title":"The Act of Killing (Director’s Cut)","tags":["video","summary"]}
 ---
 
 

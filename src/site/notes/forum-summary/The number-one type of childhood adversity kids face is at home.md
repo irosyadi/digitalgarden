@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/the-number-one-type-of-childhood-adversity-kids-face-is-at-home/","title":"The number-one type of childhood adversity kids face is at home","tags":["article","summary"],"created":"2025-07-06T09:45:56.379+07:00","updated":"2025-08-07T06:03:04.597+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/the-number-one-type-of-childhood-adversity-kids-face-is-at-home/","title":"The number-one type of childhood adversity kids face is at home","tags":["article","summary"]}
 ---
 
 

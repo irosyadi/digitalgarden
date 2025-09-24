@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/youtube-summary/senyap-the-look-of-silence/","title":"SENYAP - The Look of Silence","tags":["video","summary"],"created":"2025-05-29T21:51:22.545+07:00","updated":"2025-08-07T06:03:00.308+07:00"}
+{"dg-publish":true,"permalink":"/youtube-summary/senyap-the-look-of-silence/","title":"SENYAP - The Look of Silence","tags":["video","summary"]}
 ---
 
 

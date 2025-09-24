@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/learn-to-love-the-moat-of-low-status/","title":"Learn to love the Moat of Low Status","tags":["article","summary"],"created":"2025-07-06T09:02:18.971+07:00","updated":"2025-08-07T06:03:08.618+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/learn-to-love-the-moat-of-low-status/","title":"Learn to love the Moat of Low Status","tags":["article","summary"]}
 ---
 
 

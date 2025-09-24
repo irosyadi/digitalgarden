@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/quotes/","title":"quotes","created":"2023-03-04T05:17:42.977+07:00","updated":"2025-08-07T06:03:02.751+07:00"}
+{"dg-publish":true,"permalink":"/writing/quotes/","title":"quotes"}
 ---
 
 

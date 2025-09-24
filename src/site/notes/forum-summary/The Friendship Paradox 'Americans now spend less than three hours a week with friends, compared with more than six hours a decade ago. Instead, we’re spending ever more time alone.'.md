@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/the-friendship-paradox-americans-now-spend-less-than-three-hours-a-week-with-friends-compared-with-more-than-six-hours-a-decade-ago-instead-we-re-spending-ever-more-time-alone/","title":"The Friendship Paradox: 'Americans now spend less than three hours a week with friends, compared with more than six hours a decade ago. Instead, we’re spending ever more time alone.'","tags":["article","summary"],"created":"2025-07-06T09:30:32.116+07:00","updated":"2025-08-07T06:03:04.905+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/the-friendship-paradox-americans-now-spend-less-than-three-hours-a-week-with-friends-compared-with-more-than-six-hours-a-decade-ago-instead-we-re-spending-ever-more-time-alone/","title":"The Friendship Paradox: 'Americans now spend less than three hours a week with friends, compared with more than six hours a decade ago. Instead, we’re spending ever more time alone.'","tags":["article","summary"]}
 ---
 
 

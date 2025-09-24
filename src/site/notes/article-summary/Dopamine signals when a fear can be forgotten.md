@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/dopamine-signals-when-a-fear-can-be-forgotten/","title":"Dopamine signals when a fear can be forgotten","tags":["article","summary"],"created":"2025-05-03T00:18:04.425+07:00","updated":"2025-08-07T06:03:09.621+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/dopamine-signals-when-a-fear-can-be-forgotten/","title":"Dopamine signals when a fear can be forgotten","tags":["article","summary"]}
 ---
 
 ### Dopamine's Role in Fear Extinction

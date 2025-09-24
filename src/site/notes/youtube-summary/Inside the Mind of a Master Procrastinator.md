@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/youtube-summary/inside-the-mind-of-a-master-procrastinator/","title":"Inside the Mind of a Master Procrastinator","tags":["video","summary"],"created":"2025-05-17T07:28:09.728+07:00","updated":"2025-08-07T06:03:01.456+07:00"}
+{"dg-publish":true,"permalink":"/youtube-summary/inside-the-mind-of-a-master-procrastinator/","title":"Inside the Mind of a Master Procrastinator","tags":["video","summary"]}
 ---
 
 

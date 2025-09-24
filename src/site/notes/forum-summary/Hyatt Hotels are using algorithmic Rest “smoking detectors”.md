@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/hyatt-hotels-are-using-algorithmic-rest-smoking-detectors/","title":"Hyatt Hotels are using algorithmic Rest “smoking detectors”","tags":["forum","summary"],"created":"2025-07-20T05:46:01.201+07:00","updated":"2025-08-07T06:03:06.304+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/hyatt-hotels-are-using-algorithmic-rest-smoking-detectors/","title":"Hyatt Hotels are using algorithmic Rest “smoking detectors”","tags":["forum","summary"]}
 ---
 
 

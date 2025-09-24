@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-summary/finding-beauty-and-truth-in-mundane-occurrences/","title":"Finding Beauty and Truth in Mundane Occurrences","tags":["article","summary"],"created":"2025-05-15T05:12:56.536+07:00","updated":"2025-08-07T06:03:09.469+07:00"}
+{"dg-publish":true,"permalink":"/article-summary/finding-beauty-and-truth-in-mundane-occurrences/","title":"Finding Beauty and Truth in Mundane Occurrences","tags":["article","summary"]}
 ---
 
 

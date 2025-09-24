@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forum-summary/after-months-of-coding-with-ll-ms-i-m-going-back-to-using-my-brain-albertofortin-com/","title":"After months of coding with LLMs, I'm going back to using my brain (albertofortin.com)","tags":["article","summary"],"created":"2025-05-17T06:41:11.545+07:00","updated":"2025-08-07T06:03:07.453+07:00"}
+{"dg-publish":true,"permalink":"/forum-summary/after-months-of-coding-with-ll-ms-i-m-going-back-to-using-my-brain-albertofortin-com/","title":"After months of coding with LLMs, I'm going back to using my brain (albertofortin.com)","tags":["article","summary"]}
 ---
 
 
